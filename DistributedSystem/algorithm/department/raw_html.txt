@@ -1,0 +1,3095 @@
+b' 
+<!doctype html>
+ 
+<html class="no-js" lang="en">
+ 
+<head>
+ 
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="William & Mary" property="og:site_name" />
+<meta name="twitter:dnt" content="on">
+ 
+<link href="//creative.wm.edu" rel="dns-prefetch"/>
+ 
+<link href="//www.googletagmanager.com" rel="dns-prefetch"/>
+ 
+<link href="//www.youtube.com" rel="dns-prefetch"/>
+ 
+<!-- mobile phone homepage icons -->
+ 
+<link href="/img/touch/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+ 
+<link href="/img/touch/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+ 
+<link href="/img/touch/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+ 
+<link href="/img/touch/apple-touch-icon-57x57-precomposed.png" rel="apple-touch-icon-precomposed"/>
+ 
+<link href="/img/touch/apple-touch-icon.png" rel="shortcut icon"/>
+ 
+<!-- Tile icon for Win8 (144x144 + tile color) -->
+ 
+<script src="/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js" type="text/javascript">
+</script>
+ 
+<script src="/js/vendor/jquery.min.js" type="text/javascript">
+</script>
+ 
+<script type="application/ld+json">
+<no_tag>
+// 
+</no_tag>
+<![CDATA[{ "@context" : "https://schema.org", "@type" : "Organization", "name" : "William & Mary", "url" : "https://www.wm.edu", "logo": "https://www.wm.edu/img/wm_vertical_single_line_full_color.png", "sameAs" : [ "https://www.facebook.com/williamandmary", "https://www.twitter.com/williamandmary", "https://plus.google.com/+williamandmary", "https://www.instagram.com/william_and_mary" ] }// ]]>
+</script>
+ 
+<link href="https://creative.wm.edu/atomic-docs/wm/prod/main.css" media="all" rel="stylesheet"/>
+ 
+<link href="/css/font-awesome/css/all.min.css" media="all" rel="stylesheet"/>
+ 
+<link href="/css/font-awesome/css/v4-shims.min.css" media="all" rel="stylesheet"/>
+ 
+<link href="/css/custom.css" media="all" rel="stylesheet"/>
+ 
+<link href="//www.wm.edu/_external/gdpr/fun.css" media="all" rel="stylesheet"/>
+ 
+<script src="//www.wm.edu/_external/gdpr/gdpr.js" type="text/javascript">
+</script>
+ 
+<style>
+<!--@font-face { font-family: "Avenir Next W01"; font-weight: 400; font-style: normal; src: url("/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.woff2") format("woff2"), url("/fonts/1e9892c0-6927-4412-9874-1b82801ba47a.woff") format("woff"); } @font-face { font-family: "Avenir Next W01"; font-weight: 400; font-style: italic; src: url("/fonts/7377dbe6-f11a-4a05-b33c-bc8ce1f60f84.woff2") format("woff2"), url("/fonts/92b66dbd-4201-4ac2-a605-4d4ffc8705cc.woff") format("woff"); } @font-face { font-family: "Avenir Next W01"; font-weight: 500; font-style: normal; src: url("/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.woff2") format("woff2"), url("/fonts/f26faddb-86cc-4477-a253-1e1287684336.woff") format("woff"); } @font-face { font-family: "Avenir Next W01"; font-weight: 700; font-style: normal; src: url("/fonts/aad99a1f-7917-4dd6-bbb5-b07cedbff64f.woff2") format("woff2"), url("/fonts/91b50bbb-9aa1-4d54-9159-ec6f19d14a7c.woff") format("woff"); } @font-face { font-family: "Avenir Next W01"; font-weight: 600; font-style: italic; src: url("/fonts/687932cb-145b-4690-a21d-ed1243db9e36.woff2") format("woff2"), url("/fonts/bc350df4-3100-4ce1-84ce-4a5363dbccfa.woff") format("woff"); } @font-face { font-family: "Avenir Next W01"; font-weight: 800; font-style: normal; src: url("/fonts/14c73713-e4df-4dba-933b-057feeac8dd1.woff2") format("woff2"), url("/fonts/b8e906a1-f5e8-4bf1-8e80-82c646ca4d5f.woff") format("woff"); } @font-face { font-family: "Freight Display Pro W01"; font-weight: 300; font-style: normal; src: url("/fonts/4bfbfa09-d025-4517-b857-ec1dfdf9cc33.woff2") format("woff2"), url("/fonts/65a2bef7-8c37-4a79-bb59-112a34df3932.woff") format("woff"); } @font-face { font-family: "Freight Display Pro W01"; font-weight: 400; font-style: normal; src: url("/fonts/589f520d-e0dd-4be8-810b-253337737b36.woff2") format("woff2"), url("/fonts/36ee7795-1253-4cc0-8a35-795884c20960.woff") format("woff"); } @font-face { font-family: "Freight Display Pro W01"; font-weight: 500; font-style: italic; src: url("/fonts/9f33da00-b58f-424a-9946-d1f7fd9ea93d.woff2") format("woff2"), url("/fonts/718731c2-e060-408e-a5b7-50e9f98ac16b.woff") format("woff"); } @font-face { font-family: "Freight Display Pro W01"; font-weight: 700; font-style: normal; src: url("/fonts/1889a419-eeac-4e0b-9751-217b3ca96b66.woff2") format("woff2"), url("/fonts/61eabd92-21fd-414c-b5e7-efa565901b0a.woff") format("woff"); } @font-face { font-family: "Freight Display Pro W01"; font-weight: 900; font-style: normal; src: url("/fonts/b676ff2b-dff6-4098-b1f7-79c0378e294e.woff2") format("woff2"), url("/fonts/41d6f61b-7c39-4e26-b280-c5b24a150dd9.woff") format("woff"); } @font-face{ font-family:"Freight Text W01"; font-weight: 500; font-style: normal; src: url("/fonts/58be4ae0-d23d-4d8a-91cf-a04d9f1a3e56.woff2") format("woff2"), url("/fonts/1372e5cd-aaf7-45ac-b9f9-33b2c4dc8d92.woff") format("woff"); } @font-face{ font-family:"Freight Text W01"; font-weight: 600; font-style: normal; src: url("/fonts/cfbf38c2-56df-491d-95e5-de22794a04eb.woff2") format("woff2"), url("/fonts/473c8f92-ad2d-4e18-b728-d61805053d55.woff") format("woff"); } @media screen and (-ms-high-contrast: none), (-ms-high-contrast: active) { .wm-site-menu { transform: translateX(100%); } .wm-info-for-menu .infofor-atm { width: 100%; } .wm-info-for-menu .infofor-atm figure { background: #f0f1f2 !important; } .wm-info-for-menu .infofor-nav li.-has-icon { background-size: 24px 24px !important; }}@media screen and (-ms-high-contrast: none) and (min-width: 930px), screen and (-ms-high-contrast: active) and (min-width: 930px) { .user_content >
+<no_tag>
+ div:first-of-type { width: calc(100% - 302px); }}@media screen and (-ms-high-contrast: none) and (min-width: 1024px), screen and (-ms-high-contrast: active) and (min-width: 1024px) { .wm-info-for-menu .infofor-nav { flex: 0; } .wm-info-for-menu .infofor-links { display: -ms-inline-flexbox; flex-basis: 0; } .wm-info-for-menu .infofor-features { display: block; }}@media screen and (-ms-high-contrast: none) and (min-width: 1215px), screen and (-ms-high-contrast: active) and (min-width: 1215px) { #sidebar { width: 264px; } .wm-info-for-menu .infofor-atm figure figcaption >
+</no_tag>
+ * { padding-right: 22px; } .wm-info-for-menu .infofor-atm figure figcaption { padding: 25px 55px 25px 25px; } .wm-info-for-menu .infofor-atm figure .img-wrapper { flex-basis: calc(49% - 44px); }}-->
+</style>
+ 
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-136625701-1">
+</script>
+ 
+<script>
+<no_tag>
+// 
+</no_tag>
+<![CDATA[window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag(\'js\', new Date()); gtag(\'config\', \'UA-136625701-1\', { \'anonymize_ip\': true });// ]]>
+</script>
+ 
+<title>
+Undergraduate Majors &amp; Minors | William &amp; Mary
+</title>
+<meta content="" name="description"/>
+ 
+<meta content="summary_large_image" name="twitter:card"/>
+ 
+<meta content="Undergraduate Majors &amp; Minors" name="twitter:title"/>
+ 
+<meta content="" name="twitter:description"/>
+ 
+<meta content="Undergraduate Majors &amp; Minors" property="og:title"/>
+ 
+<meta content="" property="og:description"/>
+ 
+<meta content="https://www.wm.edu/images/social/default2.jpg" name="twitter:image"/>
+ 
+<meta content="William &amp; Mary sign" name="twitter:image:alt"/>
+ 
+<meta content="https://www.wm.edu/images/social/default2.jpg" property="og:image"/>
+ 
+<meta content="William &amp; Mary sign" property="og:image:alt"/>
+ 
+</head>
+ 
+<body>
+ 
+<img alt="William &amp; Mary sign" src="//www.wm.edu/images/social/default.jpg" style="display:none;"/>
+ 
+<noscript>
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-ND77N3"height="0" width="0" style="display:none;visibility:hidden">
+</iframe>
+</noscript>
+ 
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({\'gtm.start\':new Date().getTime(),event:\'gtm.js\'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!=\'dataLayer\'?\'&l=\'+l:\'\';j.async=true;j.src=\'//www.googletagmanager.com/gtm.js?id=\'+i+dl;f.parentNode.insertBefore(j,f);})(window,document,\'script\',\'dataLayer\',\'GTM-ND77N3\');
+</script>
+ 
+<div aria-label="Announcement" class="broadcastBarTop" role="region">
+ 
+<div class="broadcastBarTop__contents">
+ 
+<p>
+<no_tag>
+Latest about 
+</no_tag>
+<a href="/about/administration/emergency/current_issues/coronavirus/index.php">
+COVID-19
+</a>
+<no_tag>
+ and 
+</no_tag>
+<a href="/sites/pathforward/index.php">
+W&amp;M\'s Path Forward
+</a>
+</p>
+ 
+</div>
+ 
+</div>
+ 
+<img alt="William &amp; Mary" id="print_logo" src="https://www.wm.edu/img/wm_horizontal_single_line_black.png"/>
+ 
+<div class="wm-topbar">
+ 
+<div class="wm-topbar__logo">
+<!-- closed menu - logo -->
+ 
+<a aria-label="Home" class="wm-topbar__logo-link" data-gtm="main-logo" href="/index.php">
+ 
+<img alt="William &amp; Mary" class="wm-topbar__logo-img" id="top_mark" src="https://www.wm.edu/img/wm_horizontal_single_line_full_color.png"/>
+ 
+</a>
+</div>
+ 
+<div class="button-wrapper-for-older-browsers">
+<nav class="wm-topbar__buttons">
+<!-- site menu button -->
+ 
+<a aria-controls="wm-site-menu" aria-expanded="false" class="wm-topbar__menu-button wm-js-site-menu-button" data-gtm="mearch-button" href="#footer" onclick="return false;">
+ 
+<span class="wm-topbar__menu-button-text">
+W&amp;M menu
+</span>
+ 
+<img alt="" class="close-x" height="30" src="/images/menu-mag.svg" width="43"/>
+ 
+</a>
+ 
+<!-- info for button -->
+ 
+<a aria-controls="wm-info-for-menu" aria-expanded="false" class="wm-topbar__info-for-button wm-js-info-menu-button" data-gtm="infofor-button" href="#footer" onclick="return false;">
+ 
+<span>
+Info for...
+</span>
+ 
+</a>
+</nav>
+</div>
+ 
+</div>
+ 
+<div class="menubackdrop-white">
+<a aria-label="Home" class="wm_logo_banner" href="/index.php" id="wm_logo_banner">
+ 
+<img alt="William &amp; Mary" src="/images/wm-menu-banner.svg"/>
+ 
+</a>
+</div>
+ 
+<div class="menubackdrop-dark">
+</div>
+ 
+<header id="main-header">
+ 
+<div class="wm-site-menu" id="wm-site-menu">
+ 
+<!-- close site menu button -->
+ 
+<a class="wm-topbar__menu-button -close-x wm-js-site-menu-button-close-x" href="">
+ 
+<!-- close site menu button -->
+ 
+<img class="close-x" height="30" src="/images/close-x.svg" width="30"/>
+ 
+</a>
+ 
+<!-- info for button -->
+ 
+<a class="wm-topbar__info-for-button wm-js-info-menu-button" href="#">
+<span>
+Info for...
+</span>
+</a>
+ 
+<a class="wm_logo_banner" href="/index.php" id="wm_logo_banner">
+<img alt="William &amp; Mary" src="/images/wm-menu-banner.svg"/>
+</a>
+ 
+<div class="wm-site-menu__primary-wrapper">
+ 
+<!-- search -->
+ 
+<div class="wm-search">
+ 
+<div class="wm-search__form">
+ 
+<h5 class="wm-search__title">
+Search wm.edu
+</h5>
+ 
+<form action="/about/search/index.php" class="wm-search__form search_form cf" id="side_search_site" method="get" role="search">
+ 
+<label for="q">
+ 
+<span class="h-sr-only">
+Search
+</span>
+ 
+</label>
+ 
+<input autocomplete="off" class="wm-search__input" id="q" name="q" placeholder="Search wm.edu" type="text"/>
+ 
+<div class="wm-search__submit-wrapper">
+ 
+<button class="wm-search__submit fas fa-search" title="Search" type="submit">
+ 
+<span class="h-sr-only">
+Submit Search
+</span>
+ 
+</button>
+ 
+</div>
+ 
+<span class="wm-search__caption">
+Hit enter to search all of wm.edu
+</span>
+ 
+</form>
+ 
+</div>
+ 
+<div class="wm-search__common-searches">
+ 
+<div class="label">
+ Popular Topics 
+</div>
+ 
+<ul class="items">
+ 
+</ul>
+ 
+</div>
+ 
+<div class="wm-search__suggested-results">
+ 
+<div class="label">
+ Suggested Results 
+</div>
+ 
+<ul class="items">
+ 
+</ul>
+ 
+</div>
+ 
+</div>
+ 
+<!-- end search -->
+ 
+<div class="wm-site-menu__divider">
+</div>
+ 
+<!-- primary nav -->
+ 
+<nav aria-label="Main" aria-live="polite" class="accordion primary-nav" data-behavior="accordion" role="tablist">
+ 
+<ul class="primary-nav__mainmenu">
+ 
+<li class="accordion__item js-show-item-default" data-binding="expand-accordion-item">
+ 
+<a href="/about/index.php">
+About
+</a>
+ 
+<button aria-controls="panel0" aria-expanded="false" aria-selected="false" class="accordion__title primary-nav__togglesubmenu" data-binding="expand-accordion-trigger" id="tab0" role="tab" tabindex="0">
+<span class="h-sr-only">
+toggle submenu
+</span>
+</button>
+ 
+<div aria-hidden="true" aria-labelledby="tab0" class="accordion__content primary-nav__submenu" data-binding="expand-accordion-container" id="panel0" role="tabpanel">
+ 
+<ul aria-hidden="true" class="accordion__content-inner " id="sub-0">
+ 
+<li>
+ 
+<a href="/about/wmdifference/index.php">
+The W&amp;M Difference
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/about/wmataglance/index.php">
+W&amp;M at a Glance
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/about/galleries/index.php">
+W&amp;M in Pictures
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/about/wmin30/index.php">
+W&amp;M in 30 Videos
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/about/rankings/index.php">
+W&amp;M Rankings
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/about/administration/index.php">
+Administration
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/about/history/index.php">
+History &amp; Traditions
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/about/visiting/index.php">
+Visiting Campus
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+</div>
+ 
+</li>
+ 
+<li class="accordion__item js-show-item-default" data-binding="expand-accordion-item">
+ 
+<a href="/academics/index.php">
+Academics
+</a>
+ 
+<button aria-controls="panel1" aria-expanded="false" aria-selected="false" class="accordion__title primary-nav__togglesubmenu" data-binding="expand-accordion-trigger" id="tab1" role="tab" tabindex="0">
+<span class="h-sr-only">
+toggle submenu
+</span>
+</button>
+ 
+<div aria-hidden="true" aria-labelledby="tab1" class="accordion__content primary-nav__submenu" data-binding="expand-accordion-container" id="panel1" role="tabpanel">
+ 
+<ul aria-hidden="true" class="accordion__content-inner " id="sub-1">
+ 
+<li>
+ 
+<a href="/majorsminors/index.php">
+All Majors &amp; Minors
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/academics/departmentsandschools/index.php">
+Departments &amp; Schools
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/academics/undergraduateprograms/index.php">
+Undergraduate Programs
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/academics/graduateprograms/index.php">
+Graduate Programs
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/academics/online/index.php">
+Online Programs
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/academics/globalreach/index.php">
+Global Reach &amp; Study Abroad
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/academics/summerstudy/index.php">
+Summer Study
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/academics/precollege/index.php">
+Pre-College Programs
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+</div>
+ 
+</li>
+ 
+<li class="accordion__item js-show-item-default" data-binding="expand-accordion-item">
+ 
+<a href="/admission/index.php">
+Admission &amp; Aid
+</a>
+ 
+<button aria-controls="panel2" aria-expanded="false" aria-selected="false" class="accordion__title primary-nav__togglesubmenu" data-binding="expand-accordion-trigger" id="tab2" role="tab" tabindex="0">
+<span class="h-sr-only">
+toggle submenu
+</span>
+</button>
+ 
+<div aria-hidden="true" aria-labelledby="tab2" class="accordion__content primary-nav__submenu" data-binding="expand-accordion-container" id="panel2" role="tabpanel">
+ 
+<ul aria-hidden="true" class="accordion__content-inner " id="sub-2">
+ 
+<li>
+ 
+<a href="/admission/whoiswm/index.php">
+Who is W&amp;M?
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/admission/undergraduateadmission/index.php">
+Undergraduate Admission
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/admission/graduateadmission/index.php">
+Graduate Admission
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/admission/financialaid/index.php">
+Costs &amp; Financial Aid
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/admission/virtualtour/index.php">
+Virtual Tour
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+</div>
+ 
+</li>
+ 
+<li class="accordion__item js-show-item-default" data-binding="expand-accordion-item">
+ 
+<a href="/campuslife/index.php">
+Campus Life
+</a>
+ 
+<button aria-controls="panel3" aria-expanded="false" aria-selected="false" class="accordion__title primary-nav__togglesubmenu" data-binding="expand-accordion-trigger" id="tab3" role="tab" tabindex="0">
+<span class="h-sr-only">
+toggle submenu
+</span>
+</button>
+ 
+<div aria-hidden="true" aria-labelledby="tab3" class="accordion__content primary-nav__submenu" data-binding="expand-accordion-container" id="panel3" role="tabpanel">
+ 
+<ul aria-hidden="true" class="accordion__content-inner " id="sub-3">
+ 
+<li>
+ 
+<a href="/campuslife/student-resources-r/index.php">
+Student Resources
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/campuslife/events-r/index.php">
+Student Events
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/campuslife/tribelink-r/index.php">
+TribeLink
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/campuslife/wm-in-30-r/index.php">
+W&amp;M in 30 Videos
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/campuslife/visit-r/index.php">
+Visiting Campus
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+</div>
+ 
+</li>
+ 
+<li class="accordion__item js-show-item-default" data-binding="expand-accordion-item">
+ 
+<a href="/research/index.php">
+Research
+</a>
+ 
+<button aria-controls="panel4" aria-expanded="false" aria-selected="false" class="accordion__title primary-nav__togglesubmenu" data-binding="expand-accordion-trigger" id="tab4" role="tab" tabindex="0">
+<span class="h-sr-only">
+toggle submenu
+</span>
+</button>
+ 
+<div aria-hidden="true" aria-labelledby="tab4" class="accordion__content primary-nav__submenu" data-binding="expand-accordion-container" id="panel4" role="tabpanel">
+ 
+<ul aria-hidden="true" class="accordion__content-inner " id="sub-4">
+ 
+<li>
+ 
+<a href="/research/news/index.php">
+Research News
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/research/centers/index.php">
+Centers &amp; Institutes
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/research/facultyresearch/index.php">
+Faculty Research
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/research/studentresearch/index.php">
+Student Research
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/research/collections/index.php">
+Collections
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/research/publications/index.php">
+Publications &amp; Journals
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/research/resources/index.php">
+Resources
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+</div>
+ 
+</li>
+ 
+</ul>
+ 
+</nav>
+ 
+</div>
+ 
+<!-- end primary wrapper -->
+ 
+<!-- tactical -->
+ 
+<div class="tac-wrapper">
+ 
+<nav aria-label="Quick links" class="tactical-nav">
+ 
+<ul class="tactical-nav__list">
+ 
+<li>
+ 
+<a href="https://my.wm.edu">
+ myW&amp;M 
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="https://directory.wm.edu/people/">
+ Directory 
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="https://events.wm.edu">
+ Events 
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/about/visiting/index.php">
+ Visit 
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/atoz/a/index.php">
+ W&amp;M A-Z 
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="https://libraries.wm.edu">
+ Libraries 
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="https://giving.wm.edu">
+ Giving 
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+</nav>
+ 
+</div>
+ 
+<!-- secondary -->
+ 
+<div class="sec-wrapper">
+ 
+<a class="sec-wrapper__item" href="/admission/virtualtour/index.php">
+ 
+<h5 class="sec-wrapper__title">
+ Virtual Tour 
+</h5>
+ 
+<p class="sec-wrapper__text">
+ Explore William &amp; Mary from wherever you roam. 
+</p>
+ 
+</a>
+ 
+<a class="sec-wrapper__item" href="/news/index.php">
+ 
+<h5 class="sec-wrapper__title">
+ News 
+</h5>
+ 
+<p class="sec-wrapper__text">
+ Celebrating the work of W&amp;M faculty, staff and students. 
+</p>
+ 
+</a>
+ 
+<a class="sec-wrapper__item" href="https://www.tribeathletics.com">
+ 
+<h5 class="sec-wrapper__title">
+ Athletics 
+</h5>
+ 
+<p class="sec-wrapper__text">
+ Bringing you the most up-to-date information on the Tribe. 
+</p>
+ 
+</a>
+ 
+</div>
+ 
+<!-- end secondary -->
+ 
+</div>
+ 
+<div class="wm-info-for-menu" id="wm-info-for-menu">
+ 
+<img alt="William &amp; Mary" src="//www.wm.edu/about/images/wren/wren_home.jpg" style="display: none;"/>
+ 
+<!-- site menu button -->
+ 
+<a class="wm-topbar__menu-button wm-js-site-menu-button" href="#">
+ 
+<span class="wm-topbar__menu-button-text">
+W&amp;M menu
+</span>
+ 
+<img class="close-x" height="30" src="/images/menu-mag.svg" width="43"/>
+ 
+</a>
+ 
+<!-- close info for button -->
+ 
+<a class="wm-topbar__info-for-button -close-x wm-js-info-menu-button" href="#">
+ 
+<img class="close-x" height="10" src="/images/close-x-small.svg" width="10"/>
+<span>
+close
+</span>
+ 
+</a>
+ 
+<a class="wm_logo_banner" href="/" id="wm_logo_banner">
+<img alt="William &amp; Mary" src="/images/wm-menu-banner.svg"/>
+</a>
+ 
+<div class="tabs">
+ 
+<div aria-label="Audiences" id="wm-js-tablist" role="tablist">
+ 
+<div class="tab-wrapper">
+ 
+<button aria-controls="infofor_prospective" aria-selected="true" class="wm-js-tab-button" id="button_infofor_prospective" role="tab">
+<span>
+</span>
+<no_tag>
+Prospective Students
+</no_tag>
+</button>
+ 
+<button aria-controls="infofor_current" aria-selected="false" class="wm-js-tab-button" id="button_infofor_current" role="tab" tabindex="-1">
+<span>
+</span>
+<no_tag>
+Current Students
+</no_tag>
+</button>
+ 
+<button aria-controls="infofor_facstaff" aria-selected="false" class="wm-js-tab-button" id="button_infofor_facstaff" role="tab" tabindex="-1">
+<span>
+</span>
+<no_tag>
+Faculty &amp; Staff
+</no_tag>
+</button>
+ 
+<button aria-controls="infofor_parentsfamilies" aria-selected="false" class="wm-js-tab-button" id="button_infofor_parentsfamilies" role="tab" tabindex="-1">
+<span>
+</span>
+<no_tag>
+Parents &amp; Families
+</no_tag>
+</button>
+ 
+<button aria-controls="infofor_alumni" aria-selected="false" class="wm-js-tab-button" id="button_infofor_alumni" role="tab" tabindex="-1">
+<span>
+</span>
+<no_tag>
+Alumni &amp; Friends
+</no_tag>
+</button>
+ 
+</div>
+ 
+</div>
+ 
+<div aria-labelledby="button_infofor_prospective" id="infofor_prospective" role="tabpanel" tabindex="0">
+ 
+<div class="infofor-links">
+ 
+<nav class="infofor-nav">
+ 
+<h2>
+Undergraduate
+</h2>
+ 
+<ul>
+ 
+<li>
+ 
+<a href="/about/wmataglance/index.php">
+W&amp;M at a Glance
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/admission/undergraduateadmission/visit/index.php">
+Visits &amp; Tours
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/admission/financialaid/tuition/index.php">
+Tuition &amp; Fees
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/admission/financialaid/index.php">
+Financial Aid
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/campuslife/index.php">
+Campus Life
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/about/wmdifference/diversity-at-wm/index.php">
+Diversity at W&amp;M
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/research/studentresearch/index.php">
+Student Research
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/academics/globalreach/index.php">
+Global Reach &amp; Study Abroad
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+<a class="button" href="/admission/undergraduateadmission/index.php">
+Undergraduate Admission
+</a>
+ 
+</nav>
+ 
+<nav class="infofor-nav">
+ 
+<h2>
+Graduate
+</h2>
+ 
+<ul>
+ 
+<li>
+ 
+<a href="/admission/financialaid/howto/graduatestudent/index.php">
+Apply for Aid
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/admission/financialaid/tuition/graduate/index.php">
+Tuition &amp; Fees
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/as/graduate/index.php">
+Arts &amp; Sciences
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/academics/graduateprograms/mason/index.php">
+Business
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/academics/graduateprograms/education/index.php">
+ Education
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/academics/graduateprograms/law/index.php">
+Law
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/academics/graduateprograms/marinescience/index.php">
+Marine Science
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/academics/online/index.php">
+Online Programs
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+<a class="button" href="/admission/graduateadmission/index.php">
+Graduate Admission
+</a>
+ 
+</nav>
+ 
+<div class="infofor-atm">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="Life@W&amp;M Salimata Sanfo" src="/_infofor/_images/life-at-wm-salimatasanfo-campus.jpg"/>
+</div>
+ 
+<figcaption data-ftext="Get to know the William &amp; Mary campus and community through the eyes of a different person each week." data-ftitle="Life@W&amp;M on Instagram">
+ 
+<a class="button" href="https://www.instagram.com/lifeatwm">
+Explore Now
+</a>
+ 
+</figcaption>
+ 
+</figure>
+ 
+</div>
+ 
+</div>
+ 
+<div class="infofor-features">
+ 
+<a href="/majorsminors/index.php">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="Research Lab" data-src="" src="/_infofor/_images/research-lab.jpg"/>
+</div>
+ 
+<figcaption data-ftext="Explore William &amp; Mary\'s more than 100 majors and minors, designed to be an all-you-can-learn experience." data-ftitle="Majors &amp; Minors">
+</figcaption>
+ 
+</figure>
+ 
+</a>
+ 
+<a href="/about/visiting/index.php">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="Campus Tour" data-src="" src="/_infofor/_images/campus-tour.jpg"/>
+</div>
+ 
+<figcaption data-ftext="Take a virtual tour or simply take in the sights and sounds of our vibrant university campus." data-ftitle="Explore Campus">
+</figcaption>
+ 
+</figure>
+ 
+</a>
+ 
+</div>
+ 
+</div>
+ 
+<div aria-labelledby="button_infofor_current" hidden="" id="infofor_current" role="tabpanel" tabindex="0">
+ 
+<div class="infofor-links">
+ 
+<nav class="infofor-nav">
+ 
+<h2>
+Tools
+</h2>
+ 
+<ul>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/banner.svg)">
+ 
+<a href="https://banweb.wm.edu/pls/PROD/twbkwbis.P_WWWLogin">
+Banner
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/blackboard.svg)">
+ 
+<a href="https://blackboard.wm.edu/">
+Blackboard
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/gsuite.svg)">
+ 
+<a href="http://www.email.wm.edu/">
+G Suite
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/tribecareers.svg)">
+ 
+<a href="https://tribecareers.wm.edu/">
+Tribe Careers
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/directorytribelink.svg)">
+ 
+<a href="https://tribelink.wm.edu/">
+TribeLink
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/workorder.svg)">
+ 
+<a href="https://cas.wm.edu/cas/login?service=https%3A%2F%2Fwmfamisss.wm.edu%2Fwmfamisselfservice%2FserviceRequest%2FfromCas">
+Work Orders
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/zoom.svg)">
+ 
+<a href="https://cwm.zoom.us/">
+Zoom
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+</nav>
+ 
+<nav class="infofor-nav">
+ 
+<h2>
+Popular
+</h2>
+ 
+<ul>
+ 
+<li>
+ 
+<a href="/offices/registrar/calendarsandexams/index.php">
+Academic Calendars
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/registrar/coursecatalschedules/catalogs/index.php">
+Course Catalog
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="https://evals.wm.edu/">
+Course Evaluations
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/it/index.php">
+Information Technology
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/auxiliary/parkingandtransportation/index.php">
+Parking &amp; Transportation
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/residencelife/index.php">
+Residence Life
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/registrar/index.php">
+Registrar
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/financialoperations/sa/index.php">
+Student Accounts
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+<a class="button" href="/currentstudents/index.php">
+More Student Links
+</a>
+ 
+</nav>
+ 
+<div class="infofor-atm">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="students in sweatshirts on a fall day" src="/_infofor/_images/life-at-wm-davydfernandez-vertical.jpg"/>
+</div>
+ 
+<figcaption data-ftext="Get to know the W&amp;M campus and community on Instagram through the eyes of a different person each week. Then, sign up to host and tell us your W&amp;M story." data-ftitle="Life@W&amp;M">
+ 
+<a class="button" href="https://www.instagram.com/lifeatwm">
+Explore Now
+</a>
+ 
+</figcaption>
+ 
+</figure>
+ 
+</div>
+ 
+</div>
+ 
+<div class="infofor-features">
+ 
+<a href="/mobileapps/index.php">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="Phone open to a screen with a Daily Health Check button and icons of a mask, hand washing and safe distancing " data-src="" src="/_infofor/_images/wmmobile-healthy-together-horizontal.jpg"/>
+</div>
+ 
+<figcaption data-ftext="Visit W&amp;M Mobile to find COVID-19 testing results, reporting options, dining resources, Space Finder and more. For iOS, Android and at m.wm.edu." data-ftitle="Healthy Together">
+</figcaption>
+ 
+</figure>
+ 
+</a>
+ 
+<a href="/sites/studentassembly/be-the-reason/index.php">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="Be The Reason with illustrated diverse hands up-reached amid microscopic viruses." data-src="" src="/_infofor/_images/be-the-reason-horizontal.jpg"/>
+</div>
+ 
+<figcaption data-ftext="The Student Assembly is promoting trust, empathy, safety and community through student interactions. Find events and activities, or submit one of your own." data-ftitle="Be the Reason">
+</figcaption>
+ 
+</figure>
+ 
+</a>
+ 
+</div>
+ 
+</div>
+ 
+<div aria-labelledby="button_infofor_facstaff" hidden="" id="infofor_facstaff" role="tabpanel" tabindex="0">
+ 
+<div class="infofor-links">
+ 
+<nav class="infofor-nav">
+ 
+<h2>
+Tools
+</h2>
+ 
+<ul>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/banner.svg)">
+ 
+<a href="https://banweb.wm.edu/pls/PROD/twbkwbis.P_WWWLogin">
+Banner
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/blackboard.svg)">
+ 
+<a href="https://blackboard.wm.edu/">
+Blackboard
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/box.svg)">
+ 
+<a href="https://box.wm.edu/">
+Box
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/chromeriver.svg)">
+ 
+<a href="https://chromeriver.wm.edu/">
+Chrome River
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/cornerstone.svg)">
+ 
+<a href="https://cornerstone.wm.edu/">
+Cornerstone
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/gsuite.svg)">
+ 
+<a href="https://gsuite.wm.edu/">
+G Suite Apps
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/outlook.svg)">
+ 
+<a href="https://outlook.wm.edu/">
+Outlook
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/digest.svg)">
+ 
+<a href="https://digests.wm.edu/wmdigest/">
+W&amp;M Digest
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/zoom.svg)">
+ 
+<a href="https://cwm.zoom.us/">
+Zoom
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+</nav>
+ 
+<nav class="infofor-nav">
+ 
+<h2>
+Popular
+</h2>
+ 
+<ul>
+ 
+<li>
+ 
+<a href="/offices/registrar/calendarsandexams/index.php">
+Academic Calendars
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/as/facultyresources/index.php">
+A&amp;S Faculty Resources
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/hr/careers/index.php">
+Careers at W&amp;M
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/registrar/coursecatalschedules/catalogs/index.php">
+Course Catalog
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/hr/index.php">
+Human Resources
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/it/index.php">
+Information Technology
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/auxiliary/parkingandtransportation/index.php">
+Parking &amp; Transportation
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/financialoperations/payroll/index.php">
+Payroll
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/procurement/index.php">
+Procurement Services
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+<a class="button" href="/facultystaff/index.php">
+More Resources
+</a>
+ 
+</nav>
+ 
+<div class="infofor-atm">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="Phone open to a screen with a Daily Health Check button and icons of a mask, hand washing and safe distancing " src="/_infofor/_images/wmmobile-healthy-together-vertical.jpg"/>
+</div>
+ 
+<figcaption data-ftext="Visit W&amp;M Mobile to find your COVID-19 testing results, reporting options and more. For iOS, Android and at m.wm.edu." data-ftitle="Healthy Together">
+ 
+<a class="button" href="/mobileapps/index.php">
+Learn More
+</a>
+ 
+</figcaption>
+ 
+</figure>
+ 
+</div>
+ 
+</div>
+ 
+<div class="infofor-features">
+ 
+<a href="/about/administration/provost/wmandyou/index.php">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="Phone and speech bubble icon" data-src="" src="/_infofor/_images/wm-and-you-horizontal.jpg"/>
+</div>
+ 
+<figcaption data-ftext="Provide real-time feedback to W&amp;M through quick text polls. See the latest results &amp; register your mobile number to participate." data-ftitle="W&amp;M&amp;You">
+</figcaption>
+ 
+</figure>
+ 
+</a>
+ 
+<a href="/offices/wellness/virtual/index.php">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="Virtual Wellness" data-src="" src="/_infofor/_images/virtual-wellness.jpg"/>
+</div>
+ 
+<figcaption data-ftext="Find resources designed to enhance your wellness \xe2\x80\x94 articles, on-demand videos, virtual events to attend, and the Ways to Flourish podcast." data-ftitle="Virtual Wellness">
+</figcaption>
+ 
+</figure>
+ 
+</a>
+ 
+</div>
+ 
+</div>
+ 
+<div aria-labelledby="button_infofor_parentsfamilies" hidden="" id="infofor_parentsfamilies" role="tabpanel" tabindex="0">
+ 
+<div class="infofor-links">
+ 
+<nav class="infofor-nav">
+ 
+<h2>
+Tools
+</h2>
+ 
+<ul>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/eservices.svg)">
+ 
+<a href="https://secure.touchnet.net/C20604_tsa/web/login.jsp">
+eServices
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/givenow.svg)">
+ 
+<a href="https://giving.wm.edu/give-now/?appealcode=21P01">
+Give Now
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/banner.svg)">
+ 
+<a href="https://banweb.wm.edu/pls/PROD/bwgkprxy.P_ProxyLogin">
+Parent Proxy (Banner)
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/tribecareers.svg)">
+ 
+<a href="https://wm-csm.symplicity.com/employers/">
+Tribe Careers
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/updatecontactinfo.svg)">
+ 
+<a href="https://wmalumni.com/update-your-information/index.php?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Update Your Contact Info
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+</nav>
+ 
+<nav class="infofor-nav">
+ 
+<h2>
+Popular
+</h2>
+ 
+<ul>
+ 
+<li>
+ 
+<a href="/offices/registrar/calendarsandexams/index.php">
+Academic Calendars
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/career/index.php">
+Career Center
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/deanofstudents/services/parent-family/resources-tools/emails/index.php">
+Emails &amp; Newsletters
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="https://www.facebook.com/groups/104244256950121">
+Facebook Group
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/deanofstudents/services/parent-family/calendars-events/familyweekend/index.php">
+Family Weekend
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/wellness/index.php">
+Health &amp; Wellness
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/residencelife/index.php">
+Residence Life
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/financialoperations/sa/index.php">
+Student Accounts
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/step/index.php">
+Student Transition Engagement Programs
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/admission/financialaid/tuition/index.php">
+Tuition &amp; Fees
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="/offices/deanofstudents/services/parent-family/resources-tools/webinars/index.php">
+ Webinars
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+<a class="button" href="/offices/deanofstudents/services/parent-family/index.php">
+Parent &amp; Family Programs
+</a>
+ 
+</nav>
+ 
+<div class="infofor-atm">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="Will Smith" src="/_infofor/_images/people-will-smith.jpg"/>
+</div>
+ 
+<figcaption data-ftext="Explore the different people our students live and learn with on campus, and the alumni they have become." data-ftitle="People of W&amp;M">
+ 
+<a class="button" href="/peopleofwm/index.php">
+View Their Stories
+</a>
+ 
+</figcaption>
+ 
+</figure>
+ 
+</div>
+ 
+</div>
+ 
+<div class="infofor-features">
+ 
+<a href="/sites/pathforward/index.php">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="Path Forward" data-src="" src="/_infofor/_images/path-forward.svg"/>
+</div>
+ 
+<figcaption data-ftext="William &amp; Mary is adapting so students can do their best work this year." data-ftitle="The Path Forward">
+</figcaption>
+ 
+</figure>
+ 
+</a>
+ 
+<a href="/offices/wellness/virtual/index.php">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="Virtual Wellness" data-src="" src="/_infofor/_images/virtual-wellness.jpg"/>
+</div>
+ 
+<figcaption data-ftext="Find a growing set of resources designed to enhance your student\'s wellness \xe2\x80\x94 articles, on-demand videos and virtual events to attend." data-ftitle="Virtual Wellness">
+</figcaption>
+ 
+</figure>
+ 
+</a>
+ 
+</div>
+ 
+</div>
+ 
+<div aria-labelledby="button_infofor_alumni" hidden="" id="infofor_alumni" role="tabpanel" tabindex="0">
+ 
+<div class="infofor-links">
+ 
+<nav class="infofor-nav">
+ 
+<h2>
+Tools
+</h2>
+ 
+<ul>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/updatecontactinfo.svg)">
+ 
+<a href="https://wmalumni.com/update-your-information/index.php?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Update Your Information
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/transcript.svg)">
+ 
+<a href="https://www.wm.edu/offices/registrar/studentsandalumni/studentrecords/transcripts/index.php?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Get Your Transcript
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/directorytribelink.svg)">
+ 
+<a href="https://www.my1693.com/search/default.asp?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Alumni Directory
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/contact.svg)">
+ 
+<a href="https://wmalumni.com/about-us/contact-us/?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Contact the Alumni Association
+</a>
+ 
+</li>
+ 
+<li class="-has-icon" style="background-image:url(/_infofor/_images/icons/givenow.svg)">
+ 
+<a href="https://giving.wm.edu/give-now/?appealcode=XXX0B?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Give Now
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+<a class="button" href="https://wmalumni.com?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Alumni Association
+</a>
+ 
+</nav>
+ 
+<nav class="infofor-nav">
+ 
+<h2>
+Popular
+</h2>
+ 
+<ul>
+ 
+<li>
+ 
+<a href="https://events.wm.edu/alumni/?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Events Calendar
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="https://wmalumni.com/career-networking/?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Career &amp; Networking
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="https://wmalumni.com/get-involved/chapters/?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Regional Networks
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="https://wmalumni.com/get-involved/affinity-groups/?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Affinity &amp; Identity Groups
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="https://wmalumni.com/get-involved/alumni-admission-resources/?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Admission Volunteer Network
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="https://alumnihouse.wm.edu?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Alumni House Rentals
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="https://wmalumni.com/gifts-gear/?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Gifts &amp; Gear
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="https://wmalumni.com/about-us/?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+About the Alumni Association
+</a>
+ 
+</li>
+ 
+<li>
+ 
+<a href="https://magazine.wm.edu/class-notes/?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Class Notes
+</a>
+ 
+</li>
+ 
+</ul>
+ 
+</nav>
+ 
+<div class="infofor-atm">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="Professionals Week, Feb 22-26, 2021" src="/_infofor/_images/alumni/wm-professionals-week-2021_alumnifriends.jpg"/>
+</div>
+ 
+<figcaption data-ftext="Build connections and hear from experts and industry leaders from the W&amp;M community about today\'s pressing issues." data-ftitle="Professionals Week">
+ 
+<a class="button" href="https://wmalumni.com/career-networking/professionals-week/index.php?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+Learn More
+</a>
+ 
+</figcaption>
+ 
+</figure>
+ 
+</div>
+ 
+</div>
+ 
+<div class="infofor-features">
+ 
+<a href="https://magazine.wm.edu?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="Winter 2021 Magazine Cover" data-src="" src="/_infofor/_images/alumni/winter21_feature_image.jpg"/>
+</div>
+ 
+<figcaption data-ftext="Check out the Winter 2021 issue of the W&amp;M Alumni Magazine." data-ftitle="Alumni Magazine">
+</figcaption>
+ 
+</figure>
+ 
+</a>
+ 
+<a href="https://wmalumni.com/about-us/news-info/social-media/index.php?utm_source=wm_website&amp;utm_medium=referral&amp;utm_campaign=info_for">
+ 
+<figure>
+ 
+<div class="img-wrapper">
+<img alt="Alumni Social Media" data-src="" src="/_infofor/_images/alumni/alumni-social-media.jpg"/>
+</div>
+ 
+<figcaption data-ftext="To stay up to date on the latest W&amp;M happenings, follow the W&amp;M Alumni Association on social media." data-ftitle="Social Media">
+</figcaption>
+ 
+</figure>
+ 
+</a>
+ 
+</div>
+ 
+</div>
+ 
+</div>
+ 
+<!-- end tabs -->
+ 
+</div>
+ 
+<div class="m-header -small">
+<div class="m-title-card">
+<ul class="m-breadcrumbs" id="breadcrumbs">
+<li class="m-breadcrumbs__link">
+<a href="../index.php">
+Home
+</a>
+</li>
+<li class="m-breadcrumbs__link">
+Majors &amp; Minors
+</li>
+</ul>
+</div>
+ 
+<div class="m-header__photo" style="background-image:url(/images/bannerphotos/academics/mason2.jpg);">
+ 
+<div class="curtain">
+</div>
+ 
+</div>
+ 
+</div>
+ 
+</header>
+ 
+<main class="hasSidebar fullPage clearfix" id="main_content">
+ 
+<div class="content_wrapper">
+ 
+<section class="gateway no-nav" id="content">
+ 
+<div class="user_content">
+ 
+<ul class="m-breadcrumbs" id="breadcrumbs">
+<li class="m-breadcrumbs__link">
+<a href="../index.php">
+Home
+</a>
+</li>
+<no_tag>
+&#xa;
+</no_tag>
+<li class="m-breadcrumbs__link">
+Majors &amp; Minors
+</li>
+<no_tag>
+&#xa;
+</no_tag>
+</ul>
+ 
+<nav id="quick_nav">
+ 
+</nav>
+ 
+<header class="m-title">
+<h1 class="m-title__main-title">
+Undergraduate Majors &amp; Minors
+</h1>
+</header>
+<section class="gateway_group">
+<h4>
+Majors
+</h4>
+<ul>
+<li>
+<a href="../as/africanastudies/index.php">
+Africana Studies (African-American, African, African-Diaspora)
+</a>
+</li>
+<li>
+<a href="../as/americanstudies/index.php">
+American Studies
+</a>
+</li>
+<li>
+<a href="../as/anthropology/index.php">
+Anthropology
+</a>
+</li>
+<li>
+<a href="../as/arthistory/index.php">
+Art &amp; Art History (Studio Art, Art History)
+</a>
+</li>
+<li>
+<a href="../as/biology/index.php">
+Biology
+</a>
+</li>
+<li>
+<a href="https://mason.wm.edu/undergraduate/academic/majors/accounting/">
+Business (Accounting)
+</a>
+</li>
+<li>
+<a href="https://mason.wm.edu/undergraduate/academic/majors/business-analytics/index.php">
+Business (Business Analytics)
+</a>
+</li>
+<li>
+<a href="https://mason.wm.edu/undergraduate/academic/majors/finance/">
+Business (Finance)
+</a>
+</li>
+<li>
+<a href="https://mason.wm.edu/undergraduate/academic/majors/marketing/">
+Business (Marketing)
+</a>
+</li>
+<li>
+<a href="../as/chemistry/index.php">
+Chemistry
+</a>
+</li>
+<li>
+<a href="../as/modernlanguages/chinese/index.php">
+Chinese Language &amp; Culture
+</a>
+</li>
+<li>
+<a href="../as/classicalstudies/index.php">
+Classical Studies (Ancient Greek, Latin, Classical Archaeology, Classical Civilization)
+</a>
+</li>
+<li>
+<a href="../as/cams/index.php">
+Computational &amp; Applied Mathematics &amp; Statistics (Applied Statistics, Mathematical Biology)
+</a>
+</li>
+<li>
+<a href="../as/computerscience/index.php">
+Computer Science
+</a>
+</li>
+<li>
+<a href="../as/data-science/index.php">
+Data Science
+</a>
+</li>
+<li>
+<a href="../as/economics/index.php">
+Economics
+</a>
+</li>
+<li>
+<a href="https://education.wm.edu/admissions/undergraduate/index.php">
+Education
+</a>
+</li>
+<li>
+<a href="../as/english/index.php">
+English
+</a>
+</li>
+<li>
+<a href="../as/film-media-studies/index.php">
+Film &amp; Media Studies
+</a>
+</li>
+<li>
+<a href="../as/modernlanguages/french/index.php">
+French &amp; Francophone Studies
+</a>
+</li>
+<li>
+<a href="../as/gsws/index.php">
+Gender, Sexuality &amp; Women\'s Studies
+</a>
+</li>
+<li>
+<a href="../as/geology/index.php">
+Geology (General, Environmental)
+</a>
+</li>
+<li>
+<a href="../as/modernlanguages/german/index.php">
+German Studies
+</a>
+</li>
+<li>
+<a href="../as/globalstudies/index.php">
+Global Studies (Asian &amp; Middle Eastern, Asian &amp; Pacific Islander American Studies, European, Latin American, Russian &amp; Post-Soviet)
+</a>
+</li>
+<li>
+<a href="../as/government/index.php">
+Government
+</a>
+</li>
+<li>
+<a href="../as/modernlanguages/hispanic/index.php">
+Hispanic Studies
+</a>
+</li>
+<li>
+<a href="../as/history/index.php">
+History
+</a>
+</li>
+<li>
+<a href="../as/internationalrelations/index.php">
+International Relations
+</a>
+</li>
+<li>
+<a href="../as/modernlanguages/japanese/index.php">
+Japanese Studies
+</a>
+</li>
+<li>
+<a href="../as/kinesiology/index.php">
+Kinesiology &amp; Health Sciences
+</a>
+</li>
+<li>
+<a href="../as/linguistics/index.php">
+Linguistics
+</a>
+</li>
+<li>
+<a href="../as/mathematics/index.php">
+Mathematics (Standard, Applied, Pre-College Teaching)
+</a>
+</li>
+<li>
+<a href="../as/medren/index.php">
+Medieval &amp; Renaissance Studies
+</a>
+</li>
+<li>
+<a href="../as/music/index.php">
+Music
+</a>
+</li>
+<li>
+<a href="../as/neuroscience/index.php">
+Neuroscience
+</a>
+</li>
+<li>
+<a href="../as/philosophy/index.php">
+Philosophy
+</a>
+</li>
+<li>
+<a href="../as/physics/index.php">
+Physics (Standard, Medical, Engineering Physics &amp; Applied Design)
+</a>
+</li>
+<li>
+<a href="../as/psych-sciences/index.php">
+Psychological Sciences
+</a>
+</li>
+<li>
+<a href="../as/publicpolicy/index.php">
+Public Policy
+</a>
+</li>
+<li>
+<a href="../as/religiousstudies/index.php">
+Religious Studies
+</a>
+</li>
+<li>
+<a href="../as/selfdesigned/index.php">
+Self-Designed
+</a>
+</li>
+<li>
+<a href="../as/sociology/index.php">
+Sociology (General, Globalization, Health &amp; Medicine, Criminology &amp; Law, Policy &amp; Justice)
+</a>
+</li>
+<li>
+<a href="../as/tsd/theatre/index.php">
+Theatre
+</a>
+</li>
+</ul>
+</section>
+<section class="gateway_group">
+<h4>
+Minors
+</h4>
+<ul>
+<li>
+<a href="../as/africanastudies/index.php">
+Africana Studies
+</a>
+</li>
+<li>
+<a href="../as/americanstudies/index.php">
+American Studies
+</a>
+</li>
+<li>
+<a href="../as/anthropology/index.php">
+Anthropology
+</a>
+</li>
+<li>
+<a href="../as/appliedscience/index.php">
+Applied Science
+</a>
+</li>
+<li>
+<a href="../as/modernlanguages/arabic/index.php">
+Arabic Language &amp; Literature
+</a>
+</li>
+<li>
+<a href="../as/arthistory/index.php">
+Art &amp; Art History (Studio Art, Art History, Combined)
+</a>
+</li>
+<li>
+<a href="../as/globalstudies/apia-studies/index.php">
+Asian &amp; Pacific Islander American Studies
+</a>
+</li>
+<li>
+<a href="../as/biochemistry/index.php">
+Biochemistry
+</a>
+</li>
+<li>
+<a href="../as/biology/index.php">
+Biology
+</a>
+</li>
+<li>
+<a href="https://mason.wm.edu/undergraduate/academic/minors/accounting/">
+Business (Accounting)
+</a>
+</li>
+<li>
+<a href="https://mason.wm.edu/undergraduate/academic/minors/business-analytics">
+Business (Business Analytics)
+</a>
+</li>
+<li>
+<a href="https://mason.wm.edu/undergraduate/academic/minors/finance">
+Business (Finance)
+</a>
+</li>
+<li>
+<a href="https://mason.wm.edu/undergraduate/academic/minors/entrepreneurship/">
+Business (Innovation &amp; Entrepreneurship)
+</a>
+</li>
+<li>
+<a href="https://mason.wm.edu/undergraduate/academic/minors/management/">
+Business (Management &amp; Organizational Leadership)
+</a>
+</li>
+<li>
+<a href="https://mason.wm.edu/undergraduate/academic/minors/marketing/">
+Business (Marketing)
+</a>
+</li>
+<li>
+<a href="https://mason.wm.edu/undergraduate/academic/minors/supply-chain/">
+Business (Supply Chain Analytics)
+</a>
+</li>
+<li>
+<a href="../as/chemistry/index.php">
+Chemistry
+</a>
+</li>
+<li>
+<a href="../as/modernlanguages/chinese/index.php">
+Chinese Studies
+</a>
+</li>
+<li>
+<a href="../as/classicalstudies/index.php">
+Classical Studies
+</a>
+</li>
+<li>
+<a href="../as/globalstudies/ames/index.php">
+Comparative &amp; Diaspora Studies of Asia &amp; the Middle East
+</a>
+</li>
+<li>
+<a href="../as/cams/index.php">
+Computational &amp; Applied Mathematics &amp; Statistics (Mathematical Biology)
+</a>
+</li>
+<li>
+<a href="../as/computerscience/index.php">
+Computer Science
+</a>
+</li>
+<li>
+<a href="../as/english/index.php">
+Creative Writing
+</a>
+</li>
+<li>
+<a href="../as/tsd/index.php">
+Dance
+</a>
+</li>
+<li>
+<a href="../as/data-science/index.php">
+Data Science
+</a>
+</li>
+<li>
+<a href="../as/globalstudies/ames/index.php">
+East Asian Studies
+</a>
+</li>
+<li>
+<a href="../as/economics/index.php">
+Economics
+</a>
+</li>
+<li>
+<a href="https://education.wm.edu/academics/ed-studies-minor/">
+Educational Studies
+</a>
+</li>
+<li>
+<a href="../as/english/index.php">
+English
+</a>
+</li>
+<li>
+<a href="../as/environment/index.php">
+Environmental Science &amp; Policy
+</a>
+</li>
+<li>
+<a href="../as/globalstudies/european/index.php">
+European Studies
+</a>
+</li>
+<li>
+<a href="../as/film-media-studies/index.php">
+Film &amp; Media Studies
+</a>
+</li>
+<li>
+<a href="../as/modernlanguages/french/index.php">
+French &amp; Francophone Studies
+</a>
+</li>
+<li>
+<a href="../as/gsws/index.php">
+Gender, Sexuality &amp; Women\'s Studies
+</a>
+</li>
+<li>
+<a href="../as/geology/index.php">
+Geology
+</a>
+</li>
+<li>
+<a href="../as/modernlanguages/german/index.php">
+German Studies
+</a>
+</li>
+<li>
+<a href="../as/modernlanguages/hispanic/index.php">
+Hispanic Studies
+</a>
+</li>
+<li>
+<a href="../as/history/index.php">
+History
+</a>
+</li>
+<li>
+<a href="../as/modernlanguages/italian/index.php">
+Italian Studies
+</a>
+</li>
+<li>
+<a href="../as/modernlanguages/japanese/index.php">
+Japanese Studies
+</a>
+</li>
+<li>
+<a href="../as/judaic-studies/index.php">
+Judaic Studies
+</a>
+</li>
+<li>
+<a href="../as/kinesiology/index.php">
+Kinesiology &amp; Health Sciences
+</a>
+</li>
+<li>
+<a href="../as/globalstudies/latinamerican/index.php">
+Latin American Studies
+</a>
+</li>
+<li>
+<a href="../as/linguistics/index.php">
+Linguistics
+</a>
+</li>
+<li>
+<a href="../as/marinescience/index.php">
+Marine Science
+</a>
+</li>
+<li>
+<a href="../as/mathematics/index.php">
+Mathematics
+</a>
+</li>
+<li>
+<a href="../as/medren/index.php">
+Medieval &amp; Renaissance Studies
+</a>
+</li>
+<li>
+<a href="../as/globalstudies/ames/index.php">
+Middle Eastern Studies
+</a>
+</li>
+<li>
+<a href="../as/militaryscience/index.php">
+Military Science &amp; Leadership
+</a>
+</li>
+<li>
+<a href="../as/music/index.php">
+Music
+</a>
+</li>
+<li>
+<a href="../as/anthropology/index.php">
+Native Studies
+</a>
+</li>
+<li>
+<a href="../as/philosophy/index.php">
+Philosophy
+</a>
+</li>
+<li>
+<a href="../as/physics/index.php">
+Physics
+</a>
+</li>
+<li>
+<a href="../as/psych-sciences/index.php">
+Psychological Sciences
+</a>
+</li>
+<li>
+<a href="../as/public-health/index.php">
+Public Health
+</a>
+</li>
+<li>
+<a href="../as/religiousstudies/index.php">
+Religious Studies
+</a>
+</li>
+<li>
+<a href="../as/modernlanguages/russian/index.php">
+Russian Language &amp; Literature
+</a>
+</li>
+<li>
+<a href="../as/globalstudies/russianpostsov/index.php">
+Russian &amp; Post-Soviet Studies
+</a>
+</li>
+<li>
+<a href="../as/sociology/index.php">
+Sociology
+</a>
+</li>
+<li>
+<a href="../as/globalstudies/ames/index.php">
+South Asian Studies
+</a>
+</li>
+<li>
+<a href="../as/modernlanguages/index.php">
+Teaching English as a Foreign/Second Language
+</a>
+</li>
+<li>
+<a href="../as/tsd/index.php">
+Theatre
+</a>
+</li>
+</ul>
+</section>
+<section class="gateway_group">
+<h4>
+St Andrews Joint Degree Majors
+</h4>
+<ul>
+<li>
+<a href="../as/undergraduate/more-pathways/standrews/academic_program/majors/classicalstudies/index.php">
+Classical Studies
+</a>
+</li>
+<li>
+<a href="../as/undergraduate/more-pathways/standrews/academic_program/majors/economics/index.php">
+Economics
+</a>
+</li>
+<li>
+<a href="../as/undergraduate/more-pathways/standrews/academic_program/majors/english/index.php">
+English
+</a>
+</li>
+<li>
+<a href="../as/undergraduate/more-pathways/standrews/academic_program/majors/filmstudies/index.php">
+Film Studies
+</a>
+</li>
+<li>
+<a href="../as/undergraduate/more-pathways/standrews/academic_program/majors/history/index.php">
+History
+</a>
+</li>
+<li>
+<a href="../as/undergraduate/more-pathways/standrews/academic_program/majors/ir/index.php">
+International Relations
+</a>
+</li>
+</ul>
+</section>
+<section class="gateway_group">
+<h4>
+Pre-Professional Advising
+</h4>
+<ul>
+<li>
+<a href="../as/undergraduate/strategies-planning/preprofessional/index.php">
+General Information
+</a>
+</li>
+<li>
+<a href="../as/undergraduate/more-pathways/engineering/index.php">
+Engineering
+</a>
+</li>
+<li>
+<a href="../as/government/prelawadvising/index.php">
+Pre-Law
+</a>
+</li>
+<li>
+<a href="../as/undergraduate/strategies-planning/preprofessional/premed/index.php">
+Pre-Med
+</a>
+</li>
+<li>
+<a href="../as/kinesiology/undergrad/advising/nursing/index.php">
+Pre-Nursing
+</a>
+</li>
+<li>
+<a href="../as/kinesiology/undergrad/advising/occutherapyadvise/index.php">
+Pre-Occupational Therapy
+</a>
+</li>
+<li>
+<a href="../as/kinesiology/undergrad/advising/prephysadvise/index.php">
+Pre-Physical Therapy
+</a>
+</li>
+<li>
+<a href="../as/kinesiology/undergrad/advising/physassistadvise/index.php">
+Pre-Physician Assistant
+</a>
+</li>
+<li>
+<a href="../as/undergraduate/strategies-planning/preprofessional/premed/index.php">
+Pre-Vet, Pre-Dentist, Pre-Pharmacy
+</a>
+</li>
+</ul>
+</section>
+<section class="gateway_group">
+<h4>
+Secondary Majors
+</h4>
+<ul>
+<li>
+<a href="https://education.wm.edu/admissions/undergraduate/secondmajor/">
+Education
+</a>
+</li>
+<li>
+<a href="../as/environment/index.php">
+Environmental Science &amp; Policy
+</a>
+</li>
+</ul>
+</section>
+<span class="cf">
+</span>
+ 
+</div>
+ 
+<div id="sidebar">
+ 
+<aside class="sidebar__item listbox related_links">
+<a class="anchor" name="related_links">
+</a>
+<h4 class="sidebar__title">
+<span>
+Related Links
+</span>
+</h4>
+<ul class="list-items">
+<li>
+<a href="../admission/undergraduateadmission/visit/index.php" title="Visits &amp; Tours">
+Visits &amp; Tours
+</a>
+</li>
+<li>
+<a href="../admission/financialaid/tuition/index.php" title="Tuition &amp; Fees">
+Tuition &amp; Fees
+</a>
+</li>
+<li>
+<a href="../academics/graduateprograms/index.php" title="Graduate Programs">
+Graduate Programs
+</a>
+</li>
+</ul>
+</aside>
+ 
+<aside class="sidebar__item widget" role="complimentary">
+<h4 class="normal sidebar__title">
+<span>
+College Curriculum
+</span>
+</h4>
+<figure class="m-figure -responsive">
+<a class="m-figure__image" href="/as/undergraduate/coll/index.php">
+<img alt="Student in class" src="/_widgets/our-curriculum/college_curriculum.jpg"/>
+</a>
+<figcaption class="m-figure__caption">
+<no_tag>
+Welcome to a great liberal arts education. 
+</no_tag>
+<a aria-label="&#10; More about College Curriculum" href="/as/undergraduate/coll/index.php" title="More...">
+More...
+</a>
+</figcaption>
+</figure>
+</aside>
+ 
+<aside class="sidebar__item widget" role="complimentary">
+<h4 class="normal sidebar__title">
+<span>
+Explore Virtually
+</span>
+</h4>
+<figure class="m-figure -responsive">
+<a class="m-figure__image" href="/admission/undergraduateadmission/visit/index.php">
+<img alt="Tour guide walking backwards as he talks to students on a sunny spring day." src="/admission/undergraduateadmission/_widgets/visits-tours/tour.jpg"/>
+</a>
+<figcaption class="m-figure__caption">
+<no_tag>
+Explore W&amp;M from home through our virtual campus tours, an info session with a Dean, class visits and events to connect with current students. 
+</no_tag>
+<a aria-label="&#10; More about Explore Virtually" href="/admission/undergraduateadmission/visit/index.php" title="More...">
+More...
+</a>
+</figcaption>
+</figure>
+</aside>
+ 
+<aside class="sidebar__item widget" role="complimentary">
+<h4 class="normal sidebar__title">
+<span>
+Joint Degree
+</span>
+</h4>
+<figure class="m-figure -responsive">
+<a class="m-figure__image" href="/as/undergraduate/more-pathways/standrews/index.php">
+<img alt="St Andrews William and Mary Joint Degree Programme" src="/as/_widgets/jointdegree/jointdegree-widget.jpg"/>
+</a>
+<figcaption class="m-figure__caption">
+<no_tag>
+William &amp; Mary and the University of St Andrews offer an undergraduate joint degree: a Bachelor of Arts, International Honours. 
+</no_tag>
+<a aria-label="&#10; More about Joint Degree" href="/as/undergraduate/more-pathways/standrews/index.php" title="More...">
+More...
+</a>
+</figcaption>
+</figure>
+</aside>
+ 
+</div>
+ 
+</section>
+ 
+</div>
+ 
+</main>
+ 
+<section class="footersection o-wm-footer" id="footer">
+ 
+<div class="o-wm-footer__wrapper">
+ 
+<div class="o-wm-footer__logo-column o-wm-footer__column col">
+ 
+<div>
+<a data-gtm="footer-wordmark" href="/index.php">
+ 
+<img alt="William &amp; Mary logo" src="https://www.wm.edu/img/wm_vertical_single_line_gold_white.png"/>
+ 
+</a>
+<hr/>
+ 
+<p class="o-wm-footer__text">
+Follow W&amp;M on Social Media:
+</p>
+ 
+<div class="footer_social-media-nav__wrapper">
+<a class="external-link sm_icon fab fa-facebook" data-gtm="footer-facebook" href="https://www.facebook.com/williamandmary" title="Facebook">
+ 
+<span class="sr-only">
+Facebook
+</span>
+ 
+</a>
+ 
+<a class="external-link sm_icon fab fa-twitter" data-gtm="footer-twitter" href="https://twitter.com/williamandmary" title="Twitter">
+ 
+<span class="sr-only">
+Twitter
+</span>
+ 
+</a>
+ 
+<a class="external-link sm_icon fab fa-youtube" data-gtm="footer-yuotube" href="https://www.youtube.com/williamandmary" title="YouTube">
+ 
+<span class="sr-only">
+YouTube
+</span>
+ 
+</a>
+ 
+<a class="external-link sm_icon fab fa-linkedin-in" data-gtm="footer-linkedin" href="https://www.linkedin.com/edu/school?id=19598" title="LinkedIn">
+ 
+<span class="sr-only">
+LinkedIn
+</span>
+ 
+</a>
+ 
+<a class="external-link sm_icon fab fa-flickr" data-gtm="footer-flickr" href="https://www.flickr.com/photos/william-and-mary" title="Flickr">
+ 
+<span class="sr-only">
+Flickr
+</span>
+ 
+</a>
+ 
+<a class="external-link sm_icon fab fa-instagram" data-gtm="footer-instagram" href="https://instagram.com/william_and_mary" title="Instagram">
+ 
+<span class="sr-only">
+Instagram
+</span>
+ 
+</a>
+</div>
+ 
+<a class="o-wm-footer__text" data-gtm="footer-blogs" href="https://wmblogs.wm.edu/">
+William &amp; Mary Blogs
+</a>
+<hr/>
+ 
+<p class="o-wm-footer__city">
+Williamsburg, Virginia
+</p>
+ 
+<a class="o-wm-footer__contact" data-gtm="footer-contact" href="/contactus/index.php">
+Contact Us
+</a>
+</div>
+ 
+</div>
+ 
+<div class="o-wm-footer__column col">
+<nav>
+ 
+<h5 class="o-wm-footer__title">
+Info for
+</h5>
+ 
+<ul class="o-wm-footer__list" data-gtm="footer-infofor">
+ 
+<li>
+<a class="o-wm-footer__link" data-infofor="button_infofor_prospective" href="/admission/index.php">
+Prospective Students
+</a>
+</li>
+ 
+<li>
+<a class="o-wm-footer__link" data-infofor="button_infofor_current" href="/currentstudents/index.php">
+Current Students
+</a>
+</li>
+ 
+<li>
+<a class="o-wm-footer__link" data-infofor="button_infofor_facstaff" href="/facultystaff/index.php">
+Faculty &amp; Staff
+</a>
+</li>
+ 
+<li>
+<a class="o-wm-footer__link" data-infofor="button_infofor_parentsfamilies" href="/offices/deanofstudents/services/parent-family/index.php">
+Parents &amp; Families
+</a>
+</li>
+ 
+<li>
+<a class="o-wm-footer__link" data-infofor="button_infofor_alumni" href="https://wmalumni.com">
+Alumni &amp; Friends
+</a>
+</li>
+ 
+</ul>
+ 
+</nav>
+</div>
+ 
+<div class="o-wm-footer__column col">
+<nav>
+ 
+<h5 class="o-wm-footer__title">
+Discover
+</h5>
+ 
+<ul class="o-wm-footer__list" data-gtm="footer-discover">
+ 
+<li>
+<a class="o-wm-footer__link" href="/about/index.php">
+About
+</a>
+</li>
+ 
+<li>
+<a class="o-wm-footer__link" href="/academics/index.php">
+Academics
+</a>
+</li>
+ 
+<li>
+<a class="o-wm-footer__link" href="/admission/index.php">
+Admission &amp; Aid
+</a>
+</li>
+ 
+<li>
+<a class="o-wm-footer__link" href="/campuslife/index.php">
+Campus Life
+</a>
+</li>
+ 
+<li>
+<a class="o-wm-footer__link" href="/research/index.php">
+Research
+</a>
+</li>
+ 
+<li>
+<a class="o-wm-footer__link" href="/news/index.php">
+News
+</a>
+</li>
+ 
+</ul>
+ 
+</nav>
+</div>
+ 
+<div class="o-wm-footer__column col">
+<nav>
+ 
+<h5 class="o-wm-footer__title">
+Quick Links
+</h5>
+ 
+<ul class="o-wm-footer__list" data-gtm="footer-quick">
+ 
+<li>
+<a class="o-wm-footer__link" href="/about/search/index.php">
+Search W&amp;M
+</a>
+</li>
+ 
+<li>
+<a class="o-wm-footer__link" href="/atoz/index.php">
+W&amp;M A-Z
+</a>
+</li>
+ 
+<li>
+<a class="o-wm-footer__link" href="/employers/index.php">
+Hire W&amp;M
+</a>
+</li>
+ 
+<li>
+<a class="o-wm-footer__link" href="/offices/hr/careers/index.php">
+Careers at W&amp;M
+</a>
+</li>
+ 
+<li>
+<a class="o-wm-footer__link" href="/about/administration/emergency/index.php">
+Emergency Information
+</a>
+</li>
+ 
+<li>
+<a class="o-wm-footer__link" href="/report/index.php">
+Report Concerns
+</a>
+</li>
+ 
+</ul>
+ 
+</nav>
+</div>
+ 
+</div>
+ 
+<div class="o-wm-footer__miscinfo">
+ 
+<div class="o-wm-footer__miscinfo-wrapper">
+ 
+<div class="o-wm-footer__copyright">
+&#169;2021 All Rights Reserved.
+</div>
+ 
+<ul class="o-wm-footer__misclist" data-gtm="footer-subfooter">
+ 
+<li class="o-wm-footer__miscitem">
+<a class="o-wm-footer__link" href="/sites/campusaccess/index.php">
+Accessibility
+</a>
+</li>
+ 
+<li class="o-wm-footer__miscitem">
+<a class="o-wm-footer__link" href="/offices/compliance/university-compliance-requirement/consumer_information/index.php">
+Consumer Information
+</a>
+</li>
+ 
+<li class="o-wm-footer__miscitem">
+<a class="o-wm-footer__link" href="/offices/compliance/university-compliance-requirement/nondiscrimination-notice/index.php">
+Non-Discrimination Notice
+</a>
+</li>
+ 
+<li class="o-wm-footer__miscitem">
+<a class="o-wm-footer__link" href="/offices/compliance/policies/index.php">
+Policies
+</a>
+</li>
+ 
+<li class="o-wm-footer__miscitem">
+<a class="o-wm-footer__link" href="/aboutthissite/privacy/index.php">
+Privacy &amp; Security
+</a>
+</li>
+ 
+</ul>
+ 
+</div>
+ 
+</div>
+ 
+</section>
+ 
+<!-- [if lt IE 9]>
+ 
+<script src="/js/vendor/css3-mediaqueries.js">
+</script>
+ 
+<![endif]-->
+ 
+<script src="/js/helper.min.js" type="text/javascript">
+</script>
+ 
+<script src="/js/plugins.js" type="text/javascript">
+</script>
+ 
+<script src="/js/shortcodes.js" type="text/javascript">
+</script>
+ 
+<script src="/js/main.js" type="text/javascript">
+</script>
+ 
+<script src="/js/secondary-pages.js" type="text/javascript">
+</script>
+ 
+<script src="/js/vendor/anime/anime.min.js">
+</script>
+ 
+<script src="/js/vendor/perfect-scrollbar/perfect-scrollbar.min.js">
+</script>
+ 
+<!-- removing this until cascade vs live output issues have been fixed 
+<script src="/js/vendor/lazysizes/lazysizes.min.js" type="text/javascript">
+</script>
+<no_tag>
+-->
+</no_tag>
+ 
+</body>
+ 
+</html>
+'

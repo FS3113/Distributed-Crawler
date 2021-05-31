@@ -1,0 +1,1343 @@
+{
+    "task": "faculty",
+    "university": "uiuc",
+    "department": "cs",
+    "id": "_16/05/2021-18:37:31",
+    "time_stamp": "16/05/2021-18:37:31",
+    "execution_time": "6",
+    "url": "https://cs.illinois.edu/about/people/all-faculty",
+    "algo_version": 1,
+    "status": "Success",
+    "data": [
+        {
+            "Research Interest": "Missing",
+            "Position": "Sohaib and Sara Abbasi Professor and Willett Faculty Scholar",
+            "Name": "Tarek Abdelzaher",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Richard T. Cheng Professor",
+            "Name": "Sarita V. Adve",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Donald B. Gillies Professor in Computer Science",
+            "Name": "Vikram Adve",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Research Professor and Professor Emeritus",
+            "Name": "Gul A. Agha",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Assistant Professor",
+            "Name": "Abdussalam Alawini",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Electrical and Computer Engineering",
+            "Name": "Haitham Al-Hassanieh",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Research Professor & Senior Research Scientist, NCSA",
+            "Name": "Gabrielle Dawn Allen",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Abel Bliss Professor of Engineering",
+            "Name": "Nancy M. Amato",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Donald Biggar Willett Professor in Engineering & Head, Bioengineering",
+            "Name": "Mark A. Anastasio",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Professor, Gies RC Evans Innovation Fellow, CITL Fellow",
+            "Name": "Lawrence Angrave",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Brian P. Bailey",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, Electrical and Computer Engineering",
+            "Name": "Michael Bailey",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Founder Professor in Engineering",
+            "Name": "Arindam Banerjee",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Adam Bates",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Assistant Professor",
+            "Name": "Mattox Alan Beckman",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Electrical and Computer Engineering",
+            "Name": "Suma Bhat",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, Information Sciences",
+            "Name": "Catherine Lesley Blake",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, Electrical and Computer Engineering",
+            "Name": "Nikita Borisov",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, Aerospace Engineering",
+            "Name": "Timothy Bretl",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Astronomy",
+            "Name": "Robert J. Brunner",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor",
+            "Name": "Matthew Caesar",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Sohaib and Sara Abbasi Professor Emeritus",
+            "Name": "Roy H. Campbell",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Research Associate Professor",
+            "Name": "George Chacko",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Associate Professor",
+            "Name": "Geoffrey Werner Challen",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Founder Professor in Engineering",
+            "Name": "Timothy Moon-Yew Chan",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Industrial and Enterprise Systems Engineering",
+            "Name": "Karthekeyan Chandrasekaran",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Eshwar Chandrasekharan",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Kevin Chenchuan Chang",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Paul and Cynthia Saylor Professor",
+            "Name": "Chandra Sekhar Chekuri",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Electrical and Computer Engineering",
+            "Name": "Deming Chen",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Political Science",
+            "Name": "Wendy K Tam Cho",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor",
+            "Name": "Girish Chowdhary",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Assistant Professor",
+            "Name": "Benjamin Cosman",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Art and Design, National Center for Supercomputing Applications",
+            "Name": "Donna J. Cox",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Lecturer",
+            "Name": "Ryan Matthew Cunningham",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Assistant Professor",
+            "Name": "Neal E. Davis",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor Emeritus",
+            "Name": "Gerald F. DeJong, II",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Research Assistant Professor",
+            "Name": "Payam Delgosha",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, Information Sciences",
+            "Name": "Jana Diesner",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Department Affiliate",
+            "Name": "Minh N. Do",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Electrical & Computer Engineering",
+            "Name": "Katie Driggs-Campbell",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Mechanical Science and Engineering",
+            "Name": "Geir E. Dullerud",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Mohammed El-Kebir",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Sohaib and Sara Abbasi Professor and Education Innovation Fellow",
+            "Name": "Jeff G. Erickson",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Assistant Professor",
+            "Name": "Carl Evans",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Associate Professor",
+            "Name": "Wade A. Fagen-Ulmschneider",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Paul Fischer",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Research Associate Professor and Senior Lecturer",
+            "Name": "Margaret M. Fleck",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Christopher Wardlaw Fletcher",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Michael A. Forbes",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Fulton Watson Copp Chair in Computer Science",
+            "Name": "David Forsyth",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor Emeritus",
+            "Name": "H. George Friedman",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Industrial and Enterprise Systems Engineering",
+            "Name": "Jugal Garg",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor Emeritus",
+            "Name": "Charles Gear",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Assistant Professor",
+            "Name": "Yael Gertner",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Saugata Ghose",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Linguistics",
+            "Name": "Roxana Girju",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor",
+            "Name": "Brighten Godfrey",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, Civil and Environmental Engineering",
+            "Name": "Mani Golparvar Fard",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Thomas M. Siebel Chair in Computer Science",
+            "Name": "William D. Gropp",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Research Assistant Professor (Joining Fall 2021)",
+            "Name": "Liangyan Gui",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "George and Ann Fisher Distinguished Professor in Engineering",
+            "Name": "Carl Gunter",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Research Professor and Senior Lecturer",
+            "Name": "Elsa Gunter",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Indranil Gupta",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Electrical & Computer Engineering",
+            "Name": "Saurabh Gupta",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Michael Aiken Chair",
+            "Name": "Jiawei Han",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor Emeritus",
+            "Name": "Mehdi T. Harandi",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Donald Biggar Willett Professor in Engineering",
+            "Name": "Sariel Har-Peled",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "John C. Hart",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Electrical and Computer Engineering",
+            "Name": "Mark Hasegawa-Johnson",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor",
+            "Name": "Kris K. Hauser",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, School of Information Sciences",
+            "Name": "Jing Rui He",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor and Fulton Watson Copp Chair Emeritus",
+            "Name": "Michael T. Heath",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Associate Professor",
+            "Name": "Geoffrey Lindsay Herman",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor and Willett Faculty Scholar",
+            "Name": "Julia Constanze Hockenmaier",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor",
+            "Name": "Derek W. Hoiem",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, Electrical and Computer Engineering",
+            "Name": "Yih-Chun Hu",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Electrical and Computer Engineering",
+            "Name": "Jian Huang",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Information Sciences",
+            "Name": "Yun Huang",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "AMD Jerry Sanders Chair, Electrical and Computer Engineering",
+            "Name": "Wen-mei Hwu",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Electrical and Computer Engineering",
+            "Name": "Ravishankar K. Iyer",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Reyhaneh Jabbarvand",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Founder Professor in Engineering",
+            "Name": "Sheldon Howard Jacobson",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Heng Ji",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Nan Jiang",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Research Professor & Paul and Cynthia Saylor Professor Emeritus",
+            "Name": "Laxmikant V. Kale",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor Emeritus",
+            "Name": "Samuel N. Kamin",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Karrie Karahalios",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Research Associate Professor, NCSA",
+            "Name": "Daniel S. Katz",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Industrial and Enterprise Systems Engineering",
+            "Name": "T. Kesavadas",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Dakshita Khurana",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Electrical and Computer Engineering",
+            "Name": "Nam Sung Kim",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Research Associate Professor, NCSA",
+            "Name": "Volodymyr Kindratenko",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Alex Kirlik",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor",
+            "Name": "Andreas Paul Eberhard Kloeckner",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Sanmi Koyejo",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Research Professor",
+            "Name": "Bill Kramer",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Robin Hillary Kravets",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor Emeritus",
+            "Name": "David J. Kuck",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Electrical and Computer Engineering",
+            "Name": "Rakesh Kumar",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor",
+            "Name": "Ranjitha Kumar",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, Educational Psychology ",
+            "Name": "H. Chad Lane",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Steven M. LaValle",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor Emeritus",
+            "Name": "Duncan H. Lawrie",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor and Willett Faculty Scholar",
+            "Name": "Svetlana Lazebnik",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, Electrical and Computer Engineering",
+            "Name": "Kirill Levchenko",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Colleen M. Lewis",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Bo Li",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Dean, Carle Illinois College of Medicine",
+            "Name": "King C. Li",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Assistant Professor",
+            "Name": "Hongye Liu",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor Emerita",
+            "Name": "Jane W.-S. Liu",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Information Sciences",
+            "Name": "Bertram Ludaescher",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, Electrical and Computer Engineering",
+            "Name": "Steven Lumetta",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Darko Marinov",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Research Assistant Professor, NCSA",
+            "Name": "Kenton Guadron McHenry",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Ruta Mehta",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor (Joining Fall 2021)",
+            "Name": "Charith Mendis",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Jose Meseguer",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor Emeritus",
+            "Name": "M. Dennis Mickunas",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Electrical and Computer Engineering",
+            "Name": "Olgica Milenkovic",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Electrical and Computer Engineering",
+            "Name": "Andrew Miller",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Sasa Misailovic",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Electrical and Computer Engineering",
+            "Name": "Sayan Mitra",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Electrical and Computer Engineering",
+            "Name": "Radhika Mittal",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Research Assistant Professor",
+            "Name": "Sibin Mohan",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Associate Professor",
+            "Name": "Marco Morales Aguirre",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Donald Biggar Willett Professor in Engineering",
+            "Name": "Rakesh Nagi",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Grainger Distinguished Chair in Engineering",
+            "Name": "Klara Nahrstedt",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Journalism and Institute of Communications Research",
+            "Name": "Yee Man (Margaret) Ng",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Electrical and Computer Engineering",
+            "Name": "David M. Nicol",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Assistant Professor",
+            "Name": "Michael Nowak",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Electrical and Computer Engineering",
+            "Name": "Idoia Ochoa",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor and Willett Faculty Scholar",
+            "Name": "Luke Olson",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Donald Biggar Willett Professor Emeritus in Engineering",
+            "Name": "David A. Padua",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Yongjoo Park",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Madhusudan Parthasarathy",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Electrical and Computer Engineering",
+            "Name": "Sanjay Patel",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor and Willett Faculty Fellow",
+            "Name": "Jian Peng",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor Emeritus",
+            "Name": "Leonard B. Pitt",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, Electrical and Computer Engineering",
+            "Name": "Maxim Raginsky",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Lawrence Rauchwerger",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor Emeritus",
+            "Name": "Edward M. Reingold",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Ling Ren",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Department Affiliate",
+            "Name": "Gene E. Robinson",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Grigore Rosu",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, Electrical and Computer Engineering",
+            "Name": "Romit Roy Choudhury",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor and Department Head, Medical Information Science",
+            "Name": "Bruce R. Schatz",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Linguistics",
+            "Name": "Lane Oscar Schwartz",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Electrical and Computer Engineering",
+            "Name": "Alexander Schwing",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Donald B. Gillies Chair in Computer Science",
+            "Name": "Lui Sha",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Associate Professor",
+            "Name": "Eric Gene Shaffer",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Associate Professor",
+            "Name": "Mariana Silva",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor (Joining Fall 2021)",
+            "Name": "Gagandeep Singh",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Founder Professor and Willett Faculty Scholar",
+            "Name": "Saurabh Sinha",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor Emeritus",
+            "Name": "Robert D. Skeel",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Paris Smaragdis",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Research Professor & Michael Faiman Professor Emeritus",
+            "Name": "Marc Snir",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Assistant Professor",
+            "Name": "Brad R. Solomon",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Edgar Solomonik",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Electrical and Computer Engineering",
+            "Name": "Rayadurgam Srikant",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Jimeng Sun",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor",
+            "Name": "Hari Sundaram",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Matus Jan Telgarsky",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor",
+            "Name": "Hanghang Tong",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Saburo Muroga Professor",
+            "Name": "Josep Torrellas",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Information Sciences",
+            "Name": "Michael Bernard Twidale",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Electrical and Computer Engineering",
+            "Name": "Lav R. Varshney",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Deepak Vasisht",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, Electrical and Computer Engineering",
+            "Name": "Shobha Vasudevan",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Electrical and Computer Engineering",
+            "Name": "Pramod Viswanath",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor",
+            "Name": "Mahesh Viswanathan",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Gang Wang",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Geography",
+            "Name": "Shaowen Wang",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor (Joining Fall 2021)",
+            "Name": "Shenlong Wang",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor, Information Sciences",
+            "Name": "Yang Wang",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Yuxiong Wang",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Grainger Distinguished Chair in Engineering",
+            "Name": "Tandy Warnow",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Teaching Professor",
+            "Name": "Tiffani L. Williams",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor Emerita",
+            "Name": "Marianne S. Winslett",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, UIC Computer Science",
+            "Name": "Ouri Wolfson",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor, Electrical and Computer Engineering",
+            "Name": "Martin D F Wong",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Clinical Assistant Professor",
+            "Name": "Michael Joseph Woodley",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Industrial and Enterprise Systems Engineering",
+            "Name": "Abigail Wooldridge",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Professor and Willett Faculty Scholar",
+            "Name": "Tao Xie",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Tianyin Xu",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Donald Biggar Willett Professor in Engineering",
+            "Name": "ChengXiang Zhai",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor",
+            "Name": "Lingming Zhang",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor (Joining Fall 2021)",
+            "Name": "Han Zhao",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Assistant Professor, Industrial and Enterprise Systems Engineering",
+            "Name": "Yuan Zhou",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Associate Professor and Education Innovation Fellow",
+            "Name": "Craig Zilles",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        }
+    ]
+}

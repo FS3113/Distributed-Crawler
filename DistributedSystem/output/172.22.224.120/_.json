@@ -1,0 +1,1639 @@
+{
+    "task": "faculty",
+    "university": "",
+    "department": "",
+    "id": "_02/05/2021-04:25:47",
+    "time_stamp": "02/05/2021-04:25:47",
+    "execution_time": "13",
+    "url": "https://www.imdb.com/title/tt0133751/fullcredits",
+    "algo_version": 1,
+    "status": "Success",
+    "data": [
+        {
+            "Research Interest": "     William L. Arance     ...    digital effects artist   ",
+            "Name": " William L. Arance",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jean-Yves Audouard     ...    computer graphics animators: Hybride   ",
+            "Name": " Jean-Yves Audouard",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Michel Barri\\xc3\\xa8re     ...    digital effects artist: Hybride   ",
+            "Name": " Michel Barri\\xc3\\xa8re",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Louise Bertrand     ...    digital effects production manager: Hybride   ",
+            "Name": " Louise Bertrand",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Rob Blue     ...    digital artist   ",
+            "Name": " Rob Blue",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Marc Bourbonnais     ...    3D effects artist: Hybride Technologies   ",
+            "Name": " Marc Bourbonnais",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Beno\\xc3\\xaet Bri\\xc3\\xa8re     ...    technical support: Hybride (as Benoit Bri\\xc3\\xa8re)   ",
+            "Name": " Beno\\xc3\\xaet Bri\\xc3\\xa8re",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jeffrey Cappleman     ...    CG animator   ",
+            "Name": " Jeffrey Cappleman",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jim Carbonetti     ...    digital artist/compositor   ",
+            "Name": " Jim Carbonetti",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Ozzie Carmona     ...    digital artist   ",
+            "Name": " Ozzie Carmona",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Daniel Aristoteles Collins     ...    systems/operations: Rhythm & Hues   ",
+            "Name": " Daniel Aristoteles Collins",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Nicolas Cotta     ...    visual effects artist   ",
+            "Name": " Nicolas Cotta",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Scott Coulter     ...    digital artist   ",
+            "Name": " Scott Coulter",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Gregory Creaser     ...    digital timer: Pacific Title   ",
+            "Name": " Gregory Creaser",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Robert Cribbett     ...    roto/paint artist   ",
+            "Name": " Robert Cribbett",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Sean C. Cunningham     ...    effects supervisor: CFX   ",
+            "Name": " Sean C. Cunningham",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Thierry Delattre     ...    digital artist: Hybride   ",
+            "Name": " Thierry Delattre",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Luc Desmarais     ...    computer system support: Hybride   ",
+            "Name": " Luc Desmarais",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Patrick Ellis     ...    visual effects coordinator: Threshold Digital Research Labs   ",
+            "Name": " Patrick Ellis",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Conny Fauser     ...    compositing supervisor   ",
+            "Name": " Conny Fauser",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Vince Filippone     ...    assistant visual effects editor   ",
+            "Name": " Vince Filippone",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Vincent Filippone     ...    visual effects editor   ",
+            "Name": " Vincent Filippone",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Nathalie Gonthier     ...    roto/paint artist: SPI   ",
+            "Name": " Nathalie Gonthier",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Abra Grupp     ...    digital compositor   ",
+            "Name": " Abra Grupp",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     John Hart     ...    technical director (as John Hart)   ",
+            "Name": " John Hart",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     John Hughes     ...    studio head: Rhythm & Hues   ",
+            "Name": " John Hughes",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Matt Hullum     ...    visual effects coordinator   ",
+            "Name": " Matt Hullum",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Taka Ikari     ...    visual effects production assistant   ",
+            "Name": " Taka Ikari",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Brian Jennings     ...    visual effects supervisor   ",
+            "Name": " Brian Jennings",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     John Joyce     ...    lead model maker: Cinema Production Services   ",
+            "Name": " John Joyce",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Michael Joyce     ...    model shop supervisor: Cinema Production Services   ",
+            "Name": " Michael Joyce",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Joseph Kasparian     ...    digital textures / lighting artist   ",
+            "Name": " Joseph Kasparian",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Marc Kolbe     ...    visual effects executive producer: CFX   ",
+            "Name": " Marc Kolbe",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Tom Lamb     ...    digital artist   ",
+            "Name": " Tom Lamb",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Fran\\xc3\\xa7ois Lambert     ...    digital compositor: Hybride   ",
+            "Name": " Fran\\xc3\\xa7ois Lambert",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jean Lapointe     ...    technical support: Hybride   ",
+            "Name": " Jean Lapointe",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Kim Lavery     ...    in house visual effects producer   ",
+            "Name": " Kim Lavery",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jennifer Law-Stump     ...    digital effects artist: Pacific Title/Mirage   ",
+            "Name": " Jennifer Law-Stump",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Rev Lebaredian     ...    digital effects   ",
+            "Name": " Rev Lebaredian",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Daniel Leduc     ...    digital effects supervisor: Hybride   ",
+            "Name": " Daniel Leduc",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Patrick Legault     ...    computer system support: Hybride   ",
+            "Name": " Patrick Legault",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Charles Marchand     ...    Flame artist / digital compositor   ",
+            "Name": " Charles Marchand",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     S\\xc3\\xa9bastien Moreau     ...    inferno compositor: Hybride   ",
+            "Name": " S\\xc3\\xa9bastien Moreau",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Craig A. Mumma     ...    digital effects producer: CFX   ",
+            "Name": " Craig A. Mumma",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Greg Nelson     ...    digital artist   ",
+            "Name": " Greg Nelson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Fong Nickson     ...    color and lighting technical director (as Nickson Fong)   ",
+            "Name": " Fong Nickson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Abby Gail Palanker     ...    visual effects coordinator   ",
+            "Name": " Abby Gail Palanker",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Rocco Passionino     ...    digital artist   ",
+            "Name": " Rocco Passionino",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Cristin Pescosolido     ...    digital compositor   ",
+            "Name": " Cristin Pescosolido",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Brennan Prevatt     ...    digital compositor   ",
+            "Name": " Brennan Prevatt",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Pierre Raymond     ...    digital effects producer: Hybride   ",
+            "Name": " Pierre Raymond",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Kosta Saric     ...    visual effects editor: CFX   ",
+            "Name": " Kosta Saric",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Nelson Sepulveda     ...    compositing supervisor: CFX   ",
+            "Name": " Nelson Sepulveda",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Frederic Soumagnas     ...    lead lighting artist   ",
+            "Name": " Frederic Soumagnas",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     James Stewart     ...    digital artist   ",
+            "Name": " James Stewart",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Strad     ...    digital effects artist: Hybride   ",
+            "Name": " Strad",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     St\\xc3\\xa9phane Stradella     ...    digital compositor   ",
+            "Name": " St\\xc3\\xa9phane Stradella",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Martin Talbot     ...    3D-tracker   ",
+            "Name": " Martin Talbot",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Marty Taylor     ...    inferno artist: Digiscope   ",
+            "Name": " Marty Taylor",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Philippe Theroux     ...    computer graphics supervisor: Hybride   ",
+            "Name": " Philippe Theroux",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     James D. Tittle     ...    digital effects coordinator: CFX   ",
+            "Name": " James D. Tittle",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jeff Wells     ...    digital effects artist: Pacific Title/Mirage   ",
+            "Name": " Jeff Wells",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Steffen M. Wild     ...    digital effects supervisor: CFX   ",
+            "Name": " Steffen M. Wild",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Yanick Wilisky     ...    3D character animator   ",
+            "Name": " Yanick Wilisky",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jeffrey Willerth     ...    visual effects coordinator: Miramax   ",
+            "Name": " Jeffrey Willerth",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Eugene Jeong     ...    digital effects artist (uncredited)   ",
+            "Name": " Eugene Jeong",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jeryd Pojawa     ...    modelmaker: Cinema Production Services, Inc. (uncredited)   ",
+            "Name": " Jeryd Pojawa",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Mark Ross-Sullivan     ...    modelmaker: Cinema Production Services, Inc. (uncredited)   ",
+            "Name": " Mark Ross-Sullivan",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Denise Shurtleff     ...    visual effects producer (uncredited)   ",
+            "Name": " Denise Shurtleff",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Ken Swenson     ...    modelmaker: Cinema Production Services, Inc. (uncredited)   ",
+            "Name": " Ken Swenson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Mike Allred     ...    logo designer: Hornet logo   ",
+            "Name": " Mike Allred",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Allison Baker     ...    office production assistant (as Allison Gay Baker)   ",
+            "Name": " Allison Baker",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Annilee Ballentine     ...    production assistant   ",
+            "Name": " Annilee Ballentine",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Maida Barbour     ...    researcher clearence   ",
+            "Name": " Maida Barbour",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Lisa D. Carey     ...    payroll accountant   ",
+            "Name": " Lisa D. Carey",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Amy Carr     ...    accounting clerk   ",
+            "Name": " Amy Carr",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Anne Carr     ...    key construction medic   ",
+            "Name": " Anne Carr",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Darlene Conte     ...    voice (as Darlene Kegan)   ",
+            "Name": " Darlene Conte",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Gino Crognale     ...    puppeteer   ",
+            "Name": " Gino Crognale",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Kris DeForest     ...    assistant: Mr. Rodriguez and Ms. Avell\\xc3\\xa1n   ",
+            "Name": " Kris DeForest",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Karen Dinitz     ...    production assistant   ",
+            "Name": " Karen Dinitz",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Haden Garrett     ...    production secretary   ",
+            "Name": " Haden Garrett",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Karey Green     ...    stand-in   ",
+            "Name": " Karey Green",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Ted Haines     ...    puppeteer (as Theodore Haines)   ",
+            "Name": " Ted Haines",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Louis Kiss     ...    puppeteer   ",
+            "Name": " Louis Kiss",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     W. Alex Korp     ...    production assistant   ",
+            "Name": " W. Alex Korp",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Mark R. Lindsay     ...    sales representative (as Mark Lindsay)   ",
+            "Name": " Mark R. Lindsay",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Melody Lloyd     ...    first aid   ",
+            "Name": " Melody Lloyd",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Brandon Lott     ...    set production assistant   ",
+            "Name": " Brandon Lott",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Lynn Marcus     ...    legal services   ",
+            "Name": " Lynn Marcus",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jake McKinnon     ...    puppeteer   ",
+            "Name": " Jake McKinnon",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Brian Montgomery     ...    production assistant   ",
+            "Name": " Brian Montgomery",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Peggy Mulloy     ...    unit publicist   ",
+            "Name": " Peggy Mulloy",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Marlene O. Nichols     ...    production assistant   ",
+            "Name": " Marlene O. Nichols",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Greg Nicotero     ...    puppeteer (as Gregory Nicotero)   ",
+            "Name": " Greg Nicotero",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Scott Patton     ...    puppeteer   ",
+            "Name": " Scott Patton",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Janet Place     ...    second assistant accountant   ",
+            "Name": " Janet Place",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Brian Railsback     ...    production assistant   ",
+            "Name": " Brian Railsback",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Timothy Ralston     ...    puppeteer   ",
+            "Name": " Timothy Ralston",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     J. Max Ruschak     ...    first assistant accountant   ",
+            "Name": " J. Max Ruschak",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Daniel Salas-Porras     ...    assistant production coordinator   ",
+            "Name": " Daniel Salas-Porras",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Buck Sanders     ...    guitar wrangler   ",
+            "Name": " Buck Sanders",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Kathi Scharer     ...    production accountant   ",
+            "Name": " Kathi Scharer",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Shannon Shea     ...    puppeteer   ",
+            "Name": " Shannon Shea",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     John Sloss     ...    legal services   ",
+            "Name": " John Sloss",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Cynthia Streit     ...    production coordinator   ",
+            "Name": " Cynthia Streit",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     David Svec     ...    studio teacher   ",
+            "Name": " David Svec",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Raigen Thornton     ...    set medic   ",
+            "Name": " Raigen Thornton",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Wayne Toth     ...    puppeteer   ",
+            "Name": " Wayne Toth",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Linell Kathleen Townes     ...    production assistant (as Kathleen Townes)   ",
+            "Name": " Linell Kathleen Townes",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Kathleen Tull     ...    production assistant (as Katie Tull)   ",
+            "Name": " Kathleen Tull",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Venus Ventura     ...    assistant: Ms. Avell\\xc3\\xa1n (as Cheryl \\'Venus\\' Ventura)   ",
+            "Name": " Venus Ventura",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Henrik von Ryzin     ...    puppeteer   ",
+            "Name": " Henrik von Ryzin",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Bernie Wrightson     ...    creature designer   ",
+            "Name": " Bernie Wrightson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Phil Benson     ...    supervising sound editor   ",
+            "Name": " Phil Benson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Steve Boeddeker     ...    sound designer   ",
+            "Name": " Steve Boeddeker",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Mike Brennan     ...    cable person   ",
+            "Name": " Mike Brennan",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Tony Eckert     ...    foley mixer   ",
+            "Name": " Tony Eckert",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Teresa Eckton     ...    sound effects editor   ",
+            "Name": " Teresa Eckton",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Sue Fox     ...    adr editor   ",
+            "Name": " Sue Fox",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Leigh French     ...    group adr   ",
+            "Name": " Leigh French",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Scott Guitteau     ...    assistant sound designer   ",
+            "Name": " Scott Guitteau",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Tom Hartig     ...    boom operator   ",
+            "Name": " Tom Hartig",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Lora Hirschberg     ...    re-recording mixer   ",
+            "Name": " Lora Hirschberg",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     David C. Hughes     ...    sound effects editor (as David Hughes)   ",
+            "Name": " David C. Hughes",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Richard Hymns     ...    sound effects editor   ",
+            "Name": " Richard Hymns",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Stephen Kearney     ...    assistant sound editor   ",
+            "Name": " Stephen Kearney",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Bruce Lacey     ...    Co-Sound Supervisor   ",
+            "Name": " Bruce Lacey",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Kyrsten Mate     ...    sound effects editor (as Kyrsten Comoglio)   ",
+            "Name": " Kyrsten Mate",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Frank \\'Pepe\\' Merel     ...    foley recordist   ",
+            "Name": " Frank \\'Pepe\\' Merel",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Cheryl Nardi     ...    first assistant sound editor   ",
+            "Name": " Cheryl Nardi",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Steve Nelson     ...    production sound mixer   ",
+            "Name": " Steve Nelson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Brandon Proctor     ...    machine room operator   ",
+            "Name": " Brandon Proctor",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Robert Rodriguez     ...    Re-Recording Mixer   ",
+            "Name": " Robert Rodriguez",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Steve Romanko     ...    Re-Recordist   ",
+            "Name": " Steve Romanko",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Marcie Romano     ...    assistant sound editor   ",
+            "Name": " Marcie Romano",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Claire Sanfilippo     ...    dialogue editor   ",
+            "Name": " Claire Sanfilippo",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Larry Schalit     ...    adr editor   ",
+            "Name": " Larry Schalit",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jurgen Scharpf     ...    mix technician   ",
+            "Name": " Jurgen Scharpf",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Michael Semanick     ...    Re-Recording Mixer   ",
+            "Name": " Michael Semanick",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Steve Slanec     ...    assistant sound editor   ",
+            "Name": " Steve Slanec",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Daniel Sperry     ...    stereo sound consultant: Dolby (as Dan Sperry)   ",
+            "Name": " Daniel Sperry",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Dianna Stirpe     ...    dialogue editor   ",
+            "Name": " Dianna Stirpe",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Dennie Thorpe     ...    foley artist   ",
+            "Name": " Dennie Thorpe",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jana Vance     ...    foley artist   ",
+            "Name": " Jana Vance",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Alan Freedman     ...    adr mixer (uncredited)   ",
+            "Name": " Alan Freedman",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Leigh French     ...    adr loop group (uncredited)   ",
+            "Name": " Leigh French",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Brandon Proctor     ...    Assistant Re-Recording Mixer (uncredited) / mix tech (uncredited)   ",
+            "Name": " Brandon Proctor",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Ronald G. Roumas     ...    Re-Recordist (uncredited)   ",
+            "Name": " Ronald G. Roumas",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Anne Slack     ...    adr sound assistant (uncredited) / assistant adr engineer (uncredited)   ",
+            "Name": " Anne Slack",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Kent Sparling     ...    mix technician (uncredited)   ",
+            "Name": " Kent Sparling",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Dawn M. Baker     ...    scenic artist   ",
+            "Name": " Dawn M. Baker",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Annilee Ballentine     ...    art department assistant (as Annilee Ballentine Ramirez)   ",
+            "Name": " Annilee Ballentine",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Joe Barrow     ...    carpenter   ",
+            "Name": " Joe Barrow",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Rodney Brown     ...    carpenter   ",
+            "Name": " Rodney Brown",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jack Colmenero     ...    set dresser   ",
+            "Name": " Jack Colmenero",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Mariano D\\xc3\\xadaz     ...    concept artist   ",
+            "Name": " Mariano D\\xc3\\xadaz",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Caylah Eddleblute     ...    assistant property master   ",
+            "Name": " Caylah Eddleblute",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Nanci Elfrez     ...    paint laborer   ",
+            "Name": " Nanci Elfrez",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     John Frick     ...    assistant art director   ",
+            "Name": " John Frick",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Kelley A. Hankins     ...    scenic artist   ",
+            "Name": " Kelley A. Hankins",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Randy Huke     ...    set decoration buyer   ",
+            "Name": " Randy Huke",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Scott Huke     ...    set dresser   ",
+            "Name": " Scott Huke",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Douglas Jeeves     ...    carpenter   ",
+            "Name": " Douglas Jeeves",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Steve Joyner     ...    property master   ",
+            "Name": " Steve Joyner",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jerry King     ...    set dresser   ",
+            "Name": " Jerry King",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Timothy W. Lobdell     ...    carpenter   ",
+            "Name": " Timothy W. Lobdell",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Joe McCusker     ...    carpenter   ",
+            "Name": " Joe McCusker",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Richard M. Moore     ...    carpenter   ",
+            "Name": " Richard M. Moore",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Molly Murray     ...    art department coordinator   ",
+            "Name": " Molly Murray",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Darren Patnode     ...    on-set dresser   ",
+            "Name": " Darren Patnode",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Shane Patrick     ...    leadman   ",
+            "Name": " Shane Patrick",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Ronald Perkins     ...    construction foreperson (as Ron Perkins)   ",
+            "Name": " Ronald Perkins",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Raymond Prado     ...    storyboard artist   ",
+            "Name": " Raymond Prado",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Virle S. Reid     ...    property assistant   ",
+            "Name": " Virle S. Reid",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Alan R. Serotta     ...    construction foreperson   ",
+            "Name": " Alan R. Serotta",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Randy Severs     ...    set dresser   ",
+            "Name": " Randy Severs",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Byron Scott Thomas     ...    property assistant   ",
+            "Name": " Byron Scott Thomas",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Robert Trevino     ...    paint foreman   ",
+            "Name": " Robert Trevino",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     David Wilt     ...    construction coordinator   ",
+            "Name": " David Wilt",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Gary Wimmer     ...    head scenic painter   ",
+            "Name": " Gary Wimmer",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Buzzy Burwell     ...    rigging gaffer   ",
+            "Name": " Buzzy Burwell",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Matt Fliehler     ...    rigging grip   ",
+            "Name": " Matt Fliehler",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Kory Funk     ...    company electrician   ",
+            "Name": " Kory Funk",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Edison Jackson     ...    company electrician   ",
+            "Name": " Edison Jackson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Tom Kalbfleisch     ...    rigging grip   ",
+            "Name": " Tom Kalbfleisch",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Paul Kloss     ...    company electrician   ",
+            "Name": " Paul Kloss",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Kurt Kornemann     ...    company grip   ",
+            "Name": " Kurt Kornemann",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Paul T. LeBlanc     ...    video assistant   ",
+            "Name": " Paul T. LeBlanc",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jon H. Lewis     ...    gaffer   ",
+            "Name": " Jon H. Lewis",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jimmy Lindsey     ...    first assistant camera   ",
+            "Name": " Jimmy Lindsey",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     David McGill     ...    steadicam operator   ",
+            "Name": " David McGill",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Raul \\'Bull\\' Mellow     ...    company electrician   ",
+            "Name": " Raul \\'Bull\\' Mellow",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     P.K. Munson     ...    first assistant camera   ",
+            "Name": " P.K. Munson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Dany Navarrette     ...    rigging best boy electric (as Danny Navarette)   ",
+            "Name": " Dany Navarrette",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Mary C. Nelson     ...    company grip   ",
+            "Name": " Mary C. Nelson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Michael Palmer     ...    company electrician   ",
+            "Name": " Michael Palmer",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Donis Rhoden     ...    best boy grip   ",
+            "Name": " Donis Rhoden",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Matt Richardson     ...    company grip   ",
+            "Name": " Matt Richardson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Marcel Rodriguez     ...    camera production assistant   ",
+            "Name": " Marcel Rodriguez",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Robert Rodriguez     ...    camera operator   ",
+            "Name": " Robert Rodriguez",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Peter D. Roome     ...    additional first assistant camera   ",
+            "Name": " Peter D. Roome",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Rigney Sackley     ...    camera loader   ",
+            "Name": " Rigney Sackley",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Mike Sheeren     ...    dolly grip   ",
+            "Name": " Mike Sheeren",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Ferrell A. Shinnick     ...    key grip   ",
+            "Name": " Ferrell A. Shinnick",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Peter Simonite     ...    first assistant camera   ",
+            "Name": " Peter Simonite",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Kevin Sims     ...    company electrician   ",
+            "Name": " Kevin Sims",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Rico Torres     ...    still photographer   ",
+            "Name": " Rico Torres",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Tim Travis     ...    rigging electrician   ",
+            "Name": " Tim Travis",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Joseph Vasquez     ...    company grip   ",
+            "Name": " Joseph Vasquez",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Mark Kubiak     ...    company grip (uncredited)   ",
+            "Name": " Mark Kubiak",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Billy MacTavish     ...    under water (uncredited)   ",
+            "Name": " Billy MacTavish",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Bill Abbott     ...    music editor   ",
+            "Name": " Bill Abbott",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Pete Anthony     ...    conductor / orchestrator   ",
+            "Name": " Pete Anthony",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Marco Beltrami     ...    conductor   ",
+            "Name": " Marco Beltrami",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     William Boston     ...    orchestrator (as Bill Boston)   ",
+            "Name": " William Boston",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Linda Cohen     ...    music coordinator   ",
+            "Name": " Linda Cohen",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Wade Culbreath     ...    musician: percussion soloist   ",
+            "Name": " Wade Culbreath",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Robert Elhai     ...    orchestrator (as Bob Elhai)   ",
+            "Name": " Robert Elhai",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Gregg Bryan Goldman     ...    music business affairs   ",
+            "Name": " Gregg Bryan Goldman",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Gary A. Hecker     ...    creature vocals (as Gary Hecker)   ",
+            "Name": " Gary A. Hecker",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Sean M. Hickey     ...    music preparation   ",
+            "Name": " Sean M. Hickey",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Dennis James     ...    musician: glassworks   ",
+            "Name": " Dennis James",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Judy Kirschner     ...    scoring assistant   ",
+            "Name": " Judy Kirschner",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jon Kull     ...    orchestrator   ",
+            "Name": " Jon Kull",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     John Kurlander     ...    music scoring mixer   ",
+            "Name": " John Kurlander",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Bob Levy     ...    scoring recordist   ",
+            "Name": " Bob Levy",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Kevin Manthei     ...    orchestrator   ",
+            "Name": " Kevin Manthei",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jill Meyers     ...    music business affairs   ",
+            "Name": " Jill Meyers",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Denise Okimoto     ...    assistant music editor   ",
+            "Name": " Denise Okimoto",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Aaron Reiff     ...    technical engineer   ",
+            "Name": " Aaron Reiff",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jay B. Richardson     ...    music editor (as Jay Richardson)   ",
+            "Name": " Jay B. Richardson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Randy Spendlove     ...    executive soundtrack producer   ",
+            "Name": " Randy Spendlove",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Alex Steyermark     ...    music supervisor   ",
+            "Name": " Alex Steyermark",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Andre Zweers     ...    scoring assistant   ",
+            "Name": " Andre Zweers",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Kevin Manthei     ...    composer: additional music (uncredited)   ",
+            "Name": " Kevin Manthei",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Mark Jan Wlodarkiewicz     ...    music editor: temp music (uncredited)   ",
+            "Name": " Mark Jan Wlodarkiewicz",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     David Brink     ...    mechanical department: XFX Inc.   ",
+            "Name": " David Brink",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Evan Campbell     ...    sculptor   ",
+            "Name": " Evan Campbell",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jason Collins     ...    lab technician: KNB Effects Group   ",
+            "Name": " Jason Collins",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Travis Dean     ...    special effects   ",
+            "Name": " Travis Dean",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Mike Edmonson     ...    special effects foreman   ",
+            "Name": " Mike Edmonson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Chiz Hasegawa     ...    coordinator: KNB EFX Group   ",
+            "Name": " Chiz Hasegawa",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     David Heron     ...    special effects shop foreman   ",
+            "Name": " David Heron",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Scott Kodrik     ...    special effects technician   ",
+            "Name": " Scott Kodrik",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Paul Le Blanc     ...    mechanical department: XFX Inc.   ",
+            "Name": " Paul Le Blanc",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Joe D. Mack     ...    special effects   ",
+            "Name": " Joe D. Mack",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     James W. McCormick     ...    special effects (as James McCormick)   ",
+            "Name": " James W. McCormick",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     John McLeod     ...    special effects coordinator   ",
+            "Name": " John McLeod",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Mike Reedy     ...    special effects   ",
+            "Name": " Mike Reedy",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Shawn Robinson     ...    mechanical department: XFX Inc.   ",
+            "Name": " Shawn Robinson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Robert Rodriguez     ...    mechanical department: XFX Inc.   ",
+            "Name": " Robert Rodriguez",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Rigney Sackley     ...    mechanical department: XFX Inc.   ",
+            "Name": " Rigney Sackley",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Frank W. Tarantino     ...    special effects   ",
+            "Name": " Frank W. Tarantino",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Wayne Toth     ...    special effects makeup   ",
+            "Name": " Wayne Toth",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Bob Turk     ...    special effects crew   ",
+            "Name": " Bob Turk",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Bill Zahn     ...    special effects makeup   ",
+            "Name": " Bill Zahn",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Sandy Berumen     ...    stunts   ",
+            "Name": " Sandy Berumen",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Bob Brown     ...    stunt coordinator   ",
+            "Name": " Bob Brown",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Joe Bucaro III     ...    stunts   ",
+            "Name": " Joe Bucaro III",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jennifer Caputo     ...    stunts   ",
+            "Name": " Jennifer Caputo",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Paul Eliopoulos     ...    stunts   ",
+            "Name": " Paul Eliopoulos",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jon H. Epstein     ...    stunts   ",
+            "Name": " Jon H. Epstein",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Tabby Hanson     ...    stunts   ",
+            "Name": " Tabby Hanson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Dustin Meier     ...    stunt performer / stunts   ",
+            "Name": " Dustin Meier",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Theresa Pink     ...    stunts   ",
+            "Name": " Theresa Pink",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Shawn Robinson     ...    stunts   ",
+            "Name": " Shawn Robinson",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Jeff Schwan     ...    stunt driver   ",
+            "Name": " Jeff Schwan",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Myke Schwartz     ...    stunt double / stunts   ",
+            "Name": " Myke Schwartz",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Tierre Turner     ...    stunts   ",
+            "Name": " Tierre Turner",
+            "Position": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "     Eileen Weisinger     ...    stunts   ",
+            "Name": " Eileen Weisinger",
+            "Position": "Missing",
+            "Email": "Missing"
+        }
+    ]
+}

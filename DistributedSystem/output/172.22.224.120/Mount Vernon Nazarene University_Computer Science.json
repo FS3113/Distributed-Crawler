@@ -1,0 +1,55 @@
+{
+    "task": "faculty",
+    "university": "Mount Vernon Nazarene University",
+    "department": "Computer Science",
+    "id": "_02/05/2021-02:33:07",
+    "time_stamp": "02/05/2021-02:33:07",
+    "execution_time": "11",
+    "url": "https://mvnu.smartcatalogiq.com/current/Catalog/School-of-Natural-and-Social-Sciences/Computer-Science-Department",
+    "algo_version": 1,
+    "status": "Success",
+    "data": [
+        {
+            "Position": "ACADEMICS",
+            "Name": "",
+            "Research Interest": "",
+            "Phone number": "Missing"
+        },
+        {
+            "Position": "ADMISSIONS",
+            "Name": "Virtual Campus Tour",
+            "Research Interest": "",
+            "Phone number": "Missing"
+        },
+        {
+            "Position": "Financial Aid ",
+            "Name": "",
+            "Research Interest": "Scholarship Calculator",
+            "Phone number": "Missing"
+        },
+        {
+            "Position": "Student Life",
+            "Name": "M2540",
+            "Research Interest": "Welcome Week",
+            "Phone number": "Missing"
+        },
+        {
+            "Position": "WHO WE ARE",
+            "Name": "",
+            "Research Interest": "",
+            "Phone number": "Missing"
+        },
+        {
+            "Position": "FACTS &amp; FIGURES",
+            "Name": "",
+            "Research Interest": "",
+            "Phone number": "Missing"
+        },
+        {
+            "Position": "OFFICES &amp; SERVICES",
+            "Name": "",
+            "Research Interest": "Administration",
+            "Phone number": "Missing"
+        }
+    ]
+}

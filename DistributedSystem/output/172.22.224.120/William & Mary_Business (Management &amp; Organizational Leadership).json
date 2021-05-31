@@ -1,0 +1,445 @@
+{
+    "task": "faculty",
+    "university": "William & Mary",
+    "department": "Business (Management &amp; Organizational Leadership)",
+    "id": "_02/03/2021-14:05:39",
+    "time_stamp": "02/03/2021-14:05:39",
+    "execution_time": "9",
+    "url": "https://online.mason.wm.edu/mason-online/faculty",
+    "algo_version": 1,
+    "status": "Success",
+    "data": [
+        {
+            "Research Interest": "  Credentials:   MBA, Duke University   BS, Marketing, Auburn University   Expertise: Large customer success/management, negotiations, fast-moving consumer goods (FMCG), sales, marketing, distribution, execution  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "Craig.Akins@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Ph.D., Counseling and Clinical Psychology, Loyola University Chicago   MA, Counseling Psychology, University of Northern Colorado   BA, Psychology, University of Virginia   Expertise: Leadership and development, executive and team coaching, creativity and innovation  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "james.armstrong@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MBA, University of Rochester   BA, Economics and Accounting, University of Delhi   Expertise: Financial management, strategic planning, risk management and compliance, mergers and acquisitions, real estate finance, portfolio and investment management  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "tbindra@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Clinical Associate Professor   Ph.D., Operations Management, Michigan State University   MS, Operations Research, Michigan State University   BS, Psychology, Michigan State University   Area: Operations and Information Technology   Expertise: Information technology, quality management, Six Sigma, lean management issues  ",
+            "Position": "Clinical Associate Professor",
+            "Name": "Read Bio",
+            "Email": "Paul.Blossom@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Hays T. Watkins Professor of Operations Management and Information Technology   Ph.D., Industrial Engineering, Stanford University   MBA, Tuck School of Business, Dartmouth College   BS, Mechanical and Electrical Engineering, General Motors Institute   Area: Operations and Information Technology   Expertise: Business analytics, manufacturing, lean and Six Sigma process improvement, operations and supply chain management  ",
+            "Position": "Professor",
+            "Name": "Read Bio",
+            "Email": "James.Bradley@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Associate Professor   Ph.D., Organization Studies, Boston College   MA, Social Psychology, Boston College   MA, History, Tufts University   BA, Psychology, Bowdoin College   Area: Organizational Behavior   Expertise: Organizational behavior, leadership development, networks and networking, diversity and inclusion  ",
+            "Position": "Associate Professor",
+            "Name": "Read Bio",
+            "Email": "Inga.Carboni@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Ph.D., Economics, Arizona State University   MS, Information Management, Arizona State University   BS, Applied Economics, American University in Bulgaria   Expertise: Industrial organization, decision-making with incomplete information, game theory, entrepreneurship  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "mdcutler@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MS, National Resource Strategy, National Defense University, Dwight D. Eisenhower School for National Security and Resource Strategy   MS, Administration, Central Michigan University   BS, Biology, Columbia College   Expertise: Operations, Leadership, Personnel Management, Logistics  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "hddavis@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Clinical Associate Professor   Ph.D., Operations and Information Management, University of Connecticut   BS, Mathematics, William & Mary   Area: Operations and Information Technology   Expertise: Business analytics and operations management  ",
+            "Position": "Clinical Associate Professor",
+            "Name": "Read Bio",
+            "Email": "Matthew.Dean@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Ph.D., Economics, Clark University   MA, Economics, Clark University   MLA, Management, Harvard University   MS, Higher Education Administration, Southern New Hampshire University   BS, Business Economics & Finance and Psychology, University of Indianapolis   Expertise: Economics, statistics, management, nonprofit management, higher education administration and leadership, quantitative analysis and statistics, health care  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "vvdolgopolov@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MBA, William & Mary   BS, Liberal Arts, Excelsior College   Expertise: Leadership, Strategic Planning & Business Development, Corporate Operations, Corporate Compliance and Information Technology  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "krdeans@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Master of Accounting (MAcc), William & Mary   BS, Accounting, Syracuse University   Expertise: Financial and Managerial Accounting, Tax Accounting, International Tax Research  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "erin.difabio@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Clinical Professor   Ed.D., Educational Policy, Planning, and Leadership, William & Mary   DM, University of Maryland University College, Phi Kappa Phi honors   MBA, Strategic Management/International Marketing, Columbia University   International Exchange Program, London Business School   BS, Rensselaer Polytechnic Institute   AA, Elmira College   Area: Marketing   Expertise: Digital marketing, higher education marketing; integrated marketing communication; personal branding  ",
+            "Position": "Clinical Professor",
+            "Name": "Read Bio",
+            "Email": "Dawn.Edmiston@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Ph.D., Economics, Rice University   MA, Economics, Rice University   BA, Economics and Mathematics, Ouachita Baptist University   Expertise: Macroeconomics, microeconomics, international finance, current economic issues  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "dgaske@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Associate Professor Emeritus   Ph.D., Accounting and Information Systems, Kellogg School of Management, Northwestern University   MS, Accounting, University of Illinois   BS, Mathematics, University of Illinois   Area: Accounting   Expertise: Health care, activity base management, management control, learning styles, pedagogy  ",
+            "Position": "Associate Professor Emeritus",
+            "Name": "Read Bio",
+            "Email": "w.geary@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Ph.D., Economics, University of Wisconsin   MS, Business Analytics, William & Mary   BS, Economics, Escuela Colombiana de Ingenieria Julio   Area: Operations and Information Technology   Expertise: Environmental Economics, Privatization and Mergers, Game Theory  ",
+            "Position": "Clinical Associate Professor",
+            "Name": "Read Bio",
+            "Email": "juan.gelves@mason.wm.ed"
+        },
+        {
+            "Research Interest": "  Credentials:   J.E. Zollinger Professor of Finance   Ph.D., Finance, Boston College   BS, Finance, Boston College   Area: Economics and Finance   Expertise: Corporate finance and valuation  ",
+            "Position": "Professor",
+            "Name": "Read Bio",
+            "Email": "Scott.Gibson@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MBA, University of Richmond   BBA, Marketing, William & Mary   Expertise: Marketing and communications, strategic leadership, international business  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "Katie.Gilstrap@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   JD, William & Mary   MBA, William & Mary   BA, Economics and International Studies, Wake Forest University   Expertise: Finance, law, bank regulation  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "ckgott@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Clinical Associate Professor   Ph.D., Higher Education Administration, University of Virginia   MEd, Social Foundations of Education, University of Virginia   BA, French, University of Virginia   Expertise: Leadership, coaching for personal/professional growth, conflict management  ",
+            "Position": "Clinical Associate Professor",
+            "Name": "Read Bio",
+            "Email": "tatia.granger@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Ph.D., Systems Modeling and Analysis, Virginia Commonwealth University   MS, Mathematics, Virginia Commonwealth University   BS, Mathematics, Lynchburg College   Expertise: Operations management, financial modeling, business analytics  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "bcgrannan@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Emeritus Professor   Ph.D., Operations and Systems Analysis, University of Washington   MBA, University of Texas at Austin   BS, Electrical Engineering, University of Texas   Area: Operations and Information Technology   Expertise: Business data analysis, operations management, quantitative methods, modeling and simulation, Six Sigma, statistics  ",
+            "Position": "Professor Emeritus",
+            "Name": "Read Bio",
+            "Email": "Hector.Guerrero@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Ph.D., Management and Organizational Behavior, University of Florida (pursuing)   MBA, University of Notre Dame   BS, Genetics, University of Kansas   BA, Biology, University of Kansas   Expertise: Personality, intelligence, willpower, resilience, positive organizational scholarship, fear of failure  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "mdhalvorsengan@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MBA, University of Virginia   BS, Civil Engineering, Virginia Military Institute   Expertise: Consulting, Marketing, Strategy, and General Management  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "jehenry@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Executive Director of Entrepreneurship Center   Clinical Professor   Clinical Lecturer   MS, Mechanical Engineering, Virginia Polytechnic Institute and State University   BS, Mechanical Engineering, Virginia Polytechnic Institute and State University   Area: Entrepreneurship   Expertise: Product development, strategic consulting, entrepreneurship, innovation and design  ",
+            "Position": "Executive Director of Entrepreneurship Center, Clinical Lecturer",
+            "Name": "Read Bio",
+            "Email": "Graham.Henshaw@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Clinical Associate Professor   Ph.D., Duke University   BA, Economics, College of William & Mary   Area: Economics and Finance   Expertise: Emerging markets, international finance, global investing, \"live case\" method  ",
+            "Position": "Clinical Professor, Emeritus",
+            "Name": "Read Bio",
+            "Email": "Deborah.Hewitt@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Clinical Lecturer   Ph.D., Engineering Management, George Washington University   MBA, Tulane University   MS, Organization Development, Tulane University   BS, Engineering, Tulane University   Area: Project Management   Expertise: Project team building, organization design, strategic planning  ",
+            "Position": "Clinical Lecturer",
+            "Name": "Read Bio",
+            "Email": "Rex.Holmlin@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Ph.D., Economics, Florida State University   MS, Economics, Florida State University   BS, Economics, College of Charleston   Expertise: Macroeconomic fiscal policy, financial economics, business and international corporate taxation  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "mpkeightley@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Faculty Director, Business Analytics Programs   Clinical Associate Professor   Ph.D., Computer Science, William & Mary   ME, Systems Engineering, University of Virginia   BS, Computer Science, Christopher Newport University, Newport News, VA   Area: Operations and Information Technology   Expertise: Secure web information systems (cybersecurity), cloud scalability and performance, pharmacy health care analytics  ",
+            "Position": "Faculty Director of Business Analytics Programs, Clinical Associate Professor",
+            "Name": "Read Bio",
+            "Email": "Aaron.Koehl@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   John N. Dalton Memorial Professor of Business   Ph.D., Information Systems, University of Maryland, Baltimore County   Bachelor of General Laws, University of Pune   Honorary Fellow, Cambridge Judge Business School, University of Cambridge   Fellow, MIT Center for Information Systems Research   Area: Operations and Information Technology   Expertise: Health information technology, healthcare information systems, business value of information technology, IT innovation  ",
+            "Position": "Professor",
+            "Name": "Read Bio",
+            "Email": "Rajiv.Kohli@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Professor   Ph.D., Industrial Engineering, Purdue University   MS, Applied Mathematics, Purdue University   BS, Mathematics, Purdue University   Area: Mathematics   Expertise: Reliability, simulation, probability, statistics  ",
+            "Position": "Professor",
+            "Name": "Read Bio",
+            "Email": "lmleem@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MBA, William & Mary   BS, Psychology, The Citadel, the Military College of South Carolina   Expertise: Operations, sales, marketing, logistics  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "Harris.Ligon@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MPP, Political and Economic Development, Harvard Kennedy School   BS, Electrical Engineering and Computer Science, Massachusetts Institute of Technology   Expertise: Strategy, Social Enterprise, Entrepreneurship, Private Equity  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "jjlin01@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Associate Professor   Ph.D., Organizational Behavior, University of Florida   MBA, University of Florida   BS, Business Administration, Presbyterian College   Area: Organizational Behavior   Expertise: Impression management, influence tactics, organizational justice, leadership  ",
+            "Position": "Associate Professor",
+            "Name": "Read Bio",
+            "Email": "David.Long@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Ph.D., Business Administration, University of Pittsburgh   MS, Middle Tennessee State   BA, Flagler College   Area: Operations and Information Technology   Expertise: Human Computer Interaction, Social Media, Online Advertising, Teaching Assessment  ",
+            "Position": "Professor",
+            "Name": "Read Bio",
+            "Email": "Scott.McCoy@mason.wm.edu "
+        },
+        {
+            "Research Interest": "  Credentials:   MBA, William & Mary   BA, Psychology, Boston College   Expertise: Marketing  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "lmccullough@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MBA, Lindenwood University   BS, Business Administration, Washington University   Expertise: Strategic business and information systems planning, analysis & design, project management, business process improvement  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "lmcelyea@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Ph.D., Human and Organizational Development, The Fielding Institute   MA, Human and Organizational Development, The Fielding Institute   MA, Counseling Psychology and Organizational Behavior, The Ohio State University   BA, English, The Ohio State University   Expertise: Corporate governance, global CEO and board assessment and development, global top leader/team assessment, development and succession, human capital, consulting  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "bob.mintz@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Associate Professor   Ph.D., Business Administration, University of Virginia   MBA, Colgate Darden Graduate School of Business Administration, University of Virginia   BA, Psychology, University of Virginia   Area: Marketing   Expertise: Marketing management, product management, consumer behavior, marketing strategy, healthcare marketing  ",
+            "Position": "Associate Professor",
+            "Name": "Read Bio",
+            "Email": "James.Olver@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MJ, Journalism, University of California, Berkeley   MA, Latin American Studies, University of California, Berkeley   BA, Business and Spanish, Concordia College   Expertise: Marketing, advertising, brand journalism  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "rrpost@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Emeritus Professor   DBA, Indiana University   MBA, Indiana University   BBA, Business Economics, University of Cincinnati   Area: Economics and Finance   Expertise: Managerial economics, information technology, networking, regulation, productivity  ",
+            "Position": "Professor Emeritus",
+            "Name": "Read Bio",
+            "Email": "Bud.Robeson@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MS, IT Management, Regis University   BS, Business Administration and Economics, St. Mary\\'s College   Expertise: Cloud Computing, XaaS Platforms, and the intersection of Strategic Design, people, process, and technology  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "drsamuel@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MS, Information Systems Management, Bowie State University   BS, Information Systems Management, University of Maryland   Expertise: Leadership, enterprise resource management, strategic planning, security management  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "bsanders@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MBA, University of Pittsburgh   BS, Management and Marketing, Marquette University   Certificate Leadership Coaching, Georgetown University   Expertise: Nonprofit, sales, executive leadership and coaching  ",
+            "Position": "Master Teacher",
+            "Name": "Read Bio",
+            "Email": "tpshannon@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Ph.D., Applied Management & Decision Sciences, Walden University   MBA, Howard University   BS, Psychology, George Mason University   Expertise: Business Strategy, Operations and Administration, Organizational Effectiveness and Development, Performance Optimization, Change Management, and Leadership  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "tlshields@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Ph.D., Economics, University of Michigan   BA, Economics, University of Mannheim   Expertise: Finance, academic research, economics, statistics, corporate finance and governance  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "jsokolowsky@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   DM, Information Technology, University of Maryland University College   MS, Telecommunications Management, University of Maryland University College   BS, Industrial and Management Engineering, Rensselaer Polytechnic Institute   Expertise: Corporate compliance, data analytics, enterprise governance, virtual technologies  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "cpstrasser@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Professor   Ph.D., The University of Texas at Austin   MBA, The University of South Carolina   BS, Taylor University   Area: International Business and Marketing   Expertise: International business and marketing, entrepreneurship, product design  ",
+            "Position": "Professor",
+            "Name": "Read Bio",
+            "Email": "Scott.Swan@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MFA, New School University   BA, Spanish, West Virginia University   Expertise: Innovation and strategic design management, interdisciplinary problem solving, entrepreneurship  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "klsweatt@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MBA, William & Mary   BA, Art and Art History, William & Mary   Expertise: Strategic Marketing, Digital Marketing, Branding and Design, Data Analytics, Business Ethics  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "aateller@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Associate Professor   Ph.D., Management Information Systems, University of South Florida   MS, Management Information Systems, University of South Florida   BS, Industrial and Systems Engineering, University of Florida   Area: Operations and Information Technology   Expertise: Health information technology, data and information quality, unstructured data processing, design science research  ",
+            "Position": "Associate Professor",
+            "Name": "Read Bio",
+            "Email": "Monica.Tremblay@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Faculty Director, Business Analytics Program   Clinical Associate Professor   Ph.D., Industrial Engineering and Operations Research, Pennsylvania State University   MS, Operations Research, Virginia Polytechnic Institute and State University   BS, Industrial and Systems Engineering   Area: Operations and Information Technology   Expertise: Applied optimization, big data analytics, operations research, transportation and logistics  ",
+            "Position": "Faculty Director of the Business Analytics Program, Clinical Associate Professor",
+            "Name": "Read Bio",
+            "Email": "Joe.Wilck@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MBA, Northwestern University   BBA, Marketing, William & Mary   Area: Marketing   Expertise: Modern Integrated Marketing Communications, Creativity and Corporate Culture, Advertising-New Models and Structures  ",
+            "Position": "Visiting Clinical Professor",
+            "Name": "Read Bio",
+            "Email": "mrwilliams@wm.edu "
+        },
+        {
+            "Research Interest": "  Credentials:   Clinical Lecturer   MBA, The Wharton School, University of Pennsylvania   BBA, Texas Christian University   Area: Marketing   Expertise: Leadership, management, marketing, organizational behavior  ",
+            "Position": "Clinical Lecturer",
+            "Name": "Read Bio",
+            "Email": "Robert.E.Williams@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   DM, International Operations Management, University of Maryland University College   MS, Information Technology Systems Management, Capitol College   BS, Aerospace Engineering, Syracuse University   Expertise: Sustainability and renewable energy, corporate social responsibility, leadership, strategic planning, project management, information technology, enterprise architecture, health care systems, spacecraft systems, change management  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "geworden@wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   Ed.D., Higher Education Leadership, Northcentral University   MPA, Healthcare Emphasis, Keller Graduate School   MAFM, Certified Fraud Examiner Emphasis, Keller Graduate School   MBA, Finance and Information Systems, Babson College   BS, Accounting, Finance, and Economics, Boston College   Expertise: Financial and Managerial Accounting, the Stock Market, Higher Education Administration, Online Education  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "sean.wright@mason.wm.edu"
+        },
+        {
+            "Research Interest": "  Credentials:   MBA, Michigan State University   BA, International Economics, University of Michigan   Expertise: Operations, finance, accounting, health care  ",
+            "Position": "Section Leader",
+            "Name": "Read Bio",
+            "Email": "jlwyatt@wm.edu"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "",
+            "Name": "",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": " ",
+            "Name": " ",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "",
+            "Name": "",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "",
+            "Name": "",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "",
+            "Name": "",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "",
+            "Name": "",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "",
+            "Name": "",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "",
+            "Name": "",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "",
+            "Name": "",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "",
+            "Name": "",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "",
+            "Name": "",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "",
+            "Name": "",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "",
+            "Name": "",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "",
+            "Name": "",
+            "Email": "Missing"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "",
+            "Name": "",
+            "Email": "Missing"
+        }
+    ]
+}

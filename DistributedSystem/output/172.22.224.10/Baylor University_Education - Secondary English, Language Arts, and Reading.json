@@ -1,0 +1,48 @@
+{
+    "task": "faculty",
+    "university": "Baylor University",
+    "department": "Education - Secondary English, Language Arts, and Reading",
+    "id": "_04/03/2021-00:14:23",
+    "time_stamp": "04/03/2021-00:14:23",
+    "execution_time": "11",
+    "url": "https://go.umhb.edu/programs/secondary-education",
+    "algo_version": 1,
+    "status": "Success",
+    "data": [
+        {
+            "Research Interest": "Academics",
+            "Position": "Missing",
+            "Name": "Study Abroad"
+        },
+        {
+            "Research Interest": "Facilities",
+            "Position": "Missing",
+            "Name": "Mayborn Campus Center"
+        },
+        {
+            "Research Interest": "Academics",
+            "Position": "Missing",
+            "Name": "Study Abroad"
+        },
+        {
+            "Research Interest": "Facilities",
+            "Position": "Missing",
+            "Name": "Mayborn Campus Center"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Missing",
+            "Name": "Calendar"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Missing",
+            "Name": "Faculty/Staff Directory"
+        },
+        {
+            "Research Interest": "Missing",
+            "Position": "Missing",
+            "Name": "Registrar"
+        }
+    ]
+}

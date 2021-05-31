@@ -1,0 +1,384 @@
+{
+    "task": "faculty",
+    "university": "lyon college",
+    "department": "cs",
+    "id": "_16/05/2021-18:41:19",
+    "time_stamp": "16/05/2021-18:41:19",
+    "execution_time": "8",
+    "url": "https://www.lyon.edu/math-science-faculty",
+    "algo_version": 1,
+    "status": "Success",
+    "data": [
+        {
+            "Position": "Assistant Professor of Biology",
+            "Research Interest": "Missing",
+            "Name": "Dr. Alexander Beeser",
+            "Phone number": "Dr. Alexander Beeser",
+            "Email": "Assistant Professor of Biology"
+        },
+        {
+            "Position": "alexander.beeser@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": " Contact information",
+            "Phone number": "(870) 307-7426",
+            "Email": "alexander.beeser@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Assistant Professor of Biology",
+            "Research Interest": "Missing",
+            "Name": "Dr. Maryline Jones",
+            "Phone number": "Dr. Maryline Jones",
+            "Email": "Assistant Professor of Biology"
+        },
+        {
+            "Position": "maryline.jones@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "Contact Information",
+            "Phone number": "(870) 307-7214",
+            "Email": "maryline.jones@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Associate Professor of Biology",
+            "Research Interest": "Missing",
+            "Name": "Dr. Cassia Oliveira",
+            "Phone number": "Dr. Cassia Oliveira  ",
+            "Email": "Associate Professor of Biology"
+        },
+        {
+            "Position": "cassia.oliveira@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "Contact Information",
+            "Phone number": "(870) 307-7355",
+            "Email": "cassia.oliveira@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "",
+            "Research Interest": "Missing",
+            "Name": "Dr. David J.Thomas",
+            "Phone number": "W.D. Bryan Professor of Biology",
+            "Email": ""
+        },
+        {
+            "Position": "david.thomas@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "Contact Information",
+            "Phone number": "(870) 307-7269",
+            "Email": "david.thomas@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "",
+            "Research Interest": "Missing",
+            "Name": "Dr. Allyn K. Dodd",
+            "Phone number": "Assistant Professor of Biology",
+            "Email": ""
+        },
+        {
+            "Position": "allyn.dodd@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "Contact Information",
+            "Phone number": "216",
+            "Email": "allyn.dodd@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Assistant Professor of Chemistry",
+            "Research Interest": "Missing",
+            "Name": "Dr. Barry Gehm",
+            "Phone number": "Dr. Barry Gehm  ",
+            "Email": "Assistant Professor of Chemistry"
+        },
+        {
+            "Position": "barry.gehm@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "Contact Information",
+            "Phone number": "(870) 307-7282",
+            "Email": "barry.gehm@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Professor of Chemistry",
+            "Research Interest": "Missing",
+            "Name": "Dr. Anthony",
+            "Phone number": "K. Grafton  ",
+            "Email": "Professor of Chemistry"
+        },
+        {
+            "Position": "anthony.grafton@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "Contact Information",
+            "Phone number": "(870) 307-7315",
+            "Email": "anthony.grafton@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Associate Professor of Chemistry",
+            "Research Interest": "Missing",
+            "Name": "Dr. Irosha Nawarathne",
+            "Phone number": "Dr. Irosha Nawarathne  ",
+            "Email": "Associate Professor of Chemistry"
+        },
+        {
+            "Position": "irosha.nawarathne@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "Contact Information",
+            "Phone number": "(870) 307-7218",
+            "Email": "irosha.nawarathne@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "burt.hollandsworth@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "Contact Information",
+            "Phone number": "(870) 307-7212",
+            "Email": "burt.hollandsworth@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "david.sonnier@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "Contact Information",
+            "Phone number": "(870) 307-7270",
+            "Email": "david.sonnier@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": " V isiting Assistant Professor of Data Science",
+            "Research Interest": "Missing",
+            "Name": "Dr.",
+            "Phone number": "Torumoy Ghoshal",
+            "Email": " V isiting Assistant Professor of Data Science"
+        },
+        {
+            "Position": "torumoy.ghoshal@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "Contact Information",
+            "Phone number": " Office 210 in Derby Center for Science and Mathematics",
+            "Email": "torumoy.ghoshal@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Associate Professor of Mathematics",
+            "Research Interest": "Missing",
+            "Name": "Dr. Jeremy Chapman",
+            "Phone number": "Dr. Jeremy Chapman  ",
+            "Email": "Associate Professor of Mathematics"
+        },
+        {
+            "Position": "jeremy.chapman@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "Contact Information",
+            "Phone number": "(870) 307-7302",
+            "Email": "jeremy.chapman@lyon.edu"
+        },
+        {
+            "Position": "Assistant Professor of Mathematics",
+            "Research Interest": "Missing",
+            "Name": "Dr. Tharanga Wijetunge",
+            "Phone number": "Dr. Tharanga Wijetunge  ",
+            "Email": "Assistant Professor of Mathematics"
+        },
+        {
+            "Position": "tharanga.wijetunge@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "Contact Information",
+            "Phone number": "(870) 307-7274",
+            "Email": "tharanga.wijetunge@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Assistant Professor of Mathematics",
+            "Research Interest": "Missing",
+            "Name": "Dr. Christopher Schwanke",
+            "Phone number": "Dr. Christopher Schwanke  ",
+            "Email": "Assistant Professor of Mathematics"
+        },
+        {
+            "Position": "christopher.schwanke@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "Contact Information",
+            "Phone number": "(870) 307-7379",
+            "Email": "christopher.schwanke@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Director of Developmental Mathematics",
+            "Research Interest": "Missing",
+            "Name": "Meredith Wright",
+            "Phone number": "Meredith Wright  ",
+            "Email": "Director of Developmental Mathematics"
+        },
+        {
+            "Position": "meredith.wright@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "Contact Information",
+            "Phone number": "(870) 307-7509",
+            "Email": "meredith.wright@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Associate Professor of Physics",
+            "Research Interest": "Missing",
+            "Name": "Dr. Stuart Hutton",
+            "Phone number": "Dr. Stuart Hutton  ",
+            "Email": "Associate Professor of Physics"
+        },
+        {
+            "Position": "stuart.hutton@lyon.edu",
+            "Research Interest": "Missing",
+            "Name": "",
+            "Phone number": "(870) 307-7560",
+            "Email": "stuart.hutton@lyon.edu"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        },
+        {
+            "Position": "Missing",
+            "Research Interest": "Missing",
+            "Name": " ",
+            "Phone number": "Missing",
+            "Email": "Missing"
+        }
+    ]
+}

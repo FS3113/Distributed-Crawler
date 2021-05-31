@@ -1,0 +1,244 @@
+{
+    "task": "faculty",
+    "university": "Miami University--Oxford",
+    "department": "Computer Science",
+    "id": "_21/04/2021-19:48:52",
+    "time_stamp": "21/04/2021-19:48:52",
+    "execution_time": "5",
+    "url": "https://miamioh.edu/cec/academics/departments/cse/about/faculty-and-staff/index.html",
+    "algo_version": 1,
+    "status": "Success",
+    "data": [
+        {
+            "Name": "Dr. Eric Bachmann, Chair",
+            "Phone number": "513-529-0786 ",
+            "Email": "Missing",
+            "Research Interest": "bachmaer",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Hakam Alomari",
+            "Phone number": "513-529-0356 ",
+            "Email": "Missing",
+            "Research Interest": "alomarhw",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Prof. Meisam Amjad",
+            "Phone number": "513-529-0514 ",
+            "Email": "Missing",
+            "Research Interest": "amjadm",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Suman Bhunia",
+            "Phone number": "Phone: 513-529-0339",
+            "Email": "Missing",
+            "Research Interest": "bhunias",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Khodakhast Bibak",
+            "Phone number": "513-529-0338 ",
+            "Email": "Missing",
+            "Research Interest": "bibakk",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Scott Campbell",
+            "Phone number": "513-529-0360 ",
+            "Email": "Missing",
+            "Research Interest": "campbest",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Prof. John Cook",
+            "Phone number": "513-529-0353 ",
+            "Email": "Missing",
+            "Research Interest": "cookj",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Valerie Cross",
+            "Phone number": "513-529-0789 ",
+            "Email": "Missing",
+            "Research Interest": "crossv",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Karen Davis",
+            "Phone number": "513-529-0354 ",
+            "Email": "Missing",
+            "Research Interest": "davisk4",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. John Femiani",
+            "Phone number": "513-529-0349 ",
+            "Email": "Missing",
+            "Research Interest": "femianjc",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Alan Ferrenberg",
+            "Phone number": "513-529-0381 ",
+            "Email": "Missing",
+            "Research Interest": "ferrenam",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Philippe Giabbanelli",
+            "Phone number": "513-529-0147 ",
+            "Email": "Missing",
+            "Research Interest": "giabbapj",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Daniela Inclezan",
+            "Phone number": "513-529-0355 ",
+            "Email": "Missing",
+            "Research Interest": "inclezd",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Mr. Kurt Johnson",
+            "Phone number": "513-529-0201 ",
+            "Email": "Missing",
+            "Research Interest": "johnsok9",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Jim Kiper",
+            "Phone number": "513-529-0345 ",
+            "Email": "Missing",
+            "Research Interest": "kiperjd",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Prof. Norm Krumpe",
+            "Phone number": "513-529-0351 ",
+            "Email": "Missing",
+            "Research Interest": "krumpenj",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. DJ Rao",
+            "Phone number": "513-529-2544 ",
+            "Email": "Missing",
+            "Research Interest": "raodm",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Eric Rapos",
+            "Phone number": "513-529-0352 ",
+            "Email": "Missing",
+            "Research Interest": "rapose",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Vaskar Raychoudhury",
+            "Phone number": "513-529-0845 ",
+            "Email": "Missing",
+            "Research Interest": "raychov",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Prof. David Scoville",
+            "Phone number": "513-529-4168 ",
+            "Email": "Missing",
+            "Research Interest": "scovildj",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Ann Sobel",
+            "Phone number": "513-529-0344 ",
+            "Email": "Missing",
+            "Research Interest": "sobelae",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Prof. Lynn Stahr",
+            "Phone number": "513-529-0532 ",
+            "Email": "Missing",
+            "Research Interest": "stahrlc",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Prof. Mike Stahr",
+            "Phone number": "513-529-0334 ",
+            "Email": "Missing",
+            "Research Interest": "stahrm",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Matthew Stephan",
+            "Phone number": "513-529-0335 ",
+            "Email": "Missing",
+            "Research Interest": "stephamd",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Christopher Vendome",
+            "Phone number": "513-529-0122 ",
+            "Email": "Missing",
+            "Research Interest": "vendomcg",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Mike Zmuda",
+            "Phone number": "513-529-0788 ",
+            "Email": "Missing",
+            "Research Interest": "zmudam",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Bo Brinkman",
+            "Phone number": "Adjunct Professor ",
+            "Email": "Missing",
+            "Research Interest": "bo.brinkman",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. Jerry Gannod",
+            "Phone number": "Adjunct Professor ",
+            "Email": "Missing",
+            "Research Interest": "gannodg",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Dr. John Karro ",
+            "Phone number": "Adjunct Professor ",
+            "Email": "Missing",
+            "Research Interest": "Missing",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Patty Strecker",
+            "Phone number": "513-529-0341 ",
+            "Email": "Missing",
+            "Research Interest": "streckpm",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Elise Yuhas",
+            "Phone number": "513-529-0048 ",
+            "Email": "Missing",
+            "Research Interest": "yuhasem",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Chun Liang ",
+            "Phone number": " Department of Biology",
+            "Email": "Missing",
+            "Research Interest": "Missing",
+            "Position": "Missing"
+        },
+        {
+            "Name": "Jens Mueller ",
+            "Phone number": " Adjunct Assistant Professor",
+            "Email": "Missing",
+            "Research Interest": "Missing",
+            "Position": "Missing"
+        }
+    ]
+}

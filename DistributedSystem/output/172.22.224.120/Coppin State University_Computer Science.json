@@ -1,0 +1,328 @@
+{
+    "task": "faculty",
+    "university": "Coppin State University",
+    "department": "Computer Science",
+    "id": "_21/04/2021-21:00:47",
+    "time_stamp": "21/04/2021-21:00:47",
+    "execution_time": "14",
+    "url": "https://www.coppin.edu/info/200142/faculty_profiles",
+    "algo_version": 1,
+    "status": "Success",
+    "data": [
+        {
+            "Email": "ma@coppin.edu",
+            "Phone number": "(410) 951-3616",
+            "Research Interest": " Mathematics and Computer Science ",
+            "Position": " Assistant Professor ",
+            "Name": "Dr. Min A"
+        },
+        {
+            "Email": "aabdurahman@coppin.edu",
+            "Phone number": "(410) 951-3465",
+            "Research Interest": " Mathematics and Computer Science ",
+            "Position": " Lecturer ",
+            "Name": "Mr. Abdulhakim Abdurahman"
+        },
+        {
+            "Email": "jadeyeye@coppin.edu",
+            "Phone number": "(410) 951-4116",
+            "Research Interest": " Natural Sciences ",
+            "Position": " Associate Professor of Biology ",
+            "Name": "Dr. Jacob Adeyeye"
+        },
+        {
+            "Email": "laanderson@coppin.edu",
+            "Phone number": "(410) 951-3055",
+            "Research Interest": " Criminal Justice ",
+            "Position": " Assistant Professor ",
+            "Name": "Dr. Laura E. Anderson"
+        },
+        {
+            "Email": "eanoruo@coppin.edu",
+            "Phone number": "(410) 951-3446",
+            "Research Interest": " Accounting and Management Information Systems ",
+            "Position": " Professor of Economics ",
+            "Name": "Dr. Emmanuel C. Anoruo"
+        },
+        {
+            "Email": "aroboleda@coppin.edu",
+            "Phone number": "(410) 951-6080",
+            "Research Interest": " Applied Psychology and Rehabilitation Counseling ",
+            "Position": " Assistant Professor ",
+            "Name": "Dr. Roch Aroboleda"
+        },
+        {
+            "Email": "aarthur@coppin.edu",
+            "Phone number": "(410) 951-4156",
+            "Research Interest": " Humanities ",
+            "Position": " Associate Professor ",
+            "Name": "Dr. Alcott S. Arthur"
+        },
+        {
+            "Email": "dartis@coppin.edu",
+            "Phone number": "(410) 951-6155",
+            "Research Interest": " Nursing Undergraduate Program ",
+            "Position": " Assistant Professor ",
+            "Name": "Ms. Danielle Artis"
+        },
+        {
+            "Email": "jashby-bey@coppin.edu",
+            "Phone number": "(410) 951-3552",
+            "Research Interest": " Teaching and Learning (Department of) ",
+            "Position": " Chair ",
+            "Name": "Dr. Juanita Ashby-Bey"
+        },
+        {
+            "Email": "eatta-obeng@coppin.edu",
+            "Phone number": "(410) 951-4122",
+            "Research Interest": " Natural Sciences ",
+            "Position": " Assistant Professor of Biology ",
+            "Name": "Dr. Emmanuel Atta-Obeng"
+        },
+        {
+            "Email": "cbambara@coppin.edu",
+            "Phone number": "(410) 951-3367",
+            "Research Interest": " Humanities ",
+            "Position": " Assistant Professor ",
+            "Name": "Dr. Celia Bambara"
+        },
+        {
+            "Email": "kbankole@coppin.edu",
+            "Phone number": "(410) 951-3431",
+            "Research Interest": " Humanities ",
+            "Position": " Professor ",
+            "Name": "Dr. Katherine Bankole-Medina"
+        },
+        {
+            "Email": "gbarber@coppin.edu",
+            "Phone number": "(410) 951-3078",
+            "Research Interest": " Teaching and Learning (Department of) ",
+            "Position": " Assistant Professor ",
+            "Name": "Dr. Glynis Barber"
+        },
+        {
+            "Email": "lbaryeh@coppin.edu",
+            "Phone number": "(410) 951-6527",
+            "Research Interest": " Accounting and Management Information Systems ",
+            "Position": " Associate Professor ",
+            "Name": "Dr. Loretta Baryeh"
+        },
+        {
+            "Email": "mberlin@coppin.edu",
+            "Phone number": "(410) 951-3046",
+            "Research Interest": " Criminal Justice ",
+            "Position": " Associate Professor ",
+            "Name": "Dr. Michael Berlin"
+        },
+        {
+            "Email": "chbetow@coppin.edu",
+            "Phone number": "(410) 951-3479",
+            "Research Interest": " Mathematics and Computer Science ",
+            "Position": " Lecturer ",
+            "Name": "Mr. Charles Betow"
+        },
+        {
+            "Email": "ebolden@coppin.edu",
+            "Phone number": "(410) 951-3542",
+            "Research Interest": " Social Work ",
+            "Position": " Professor ",
+            "Name": "Dr. Errol Bolden"
+        },
+        {
+            "Email": "kbradestennis@coppin.edu",
+            "Phone number": "(410) 951-3543",
+            "Research Interest": " Social Work ",
+            "Position": " Professor ",
+            "Name": "Dr. Kesslyn Brade Stennis"
+        },
+        {
+            "Email": "cbrittan-powell@coppin.edu",
+            "Phone number": "(410) 951-3519",
+            "Research Interest": " Applied Psychology and Rehabilitation Counseling ",
+            "Position": " Associate Professor ",
+            "Name": "Dr. Christopher Brittan-Powell"
+        },
+        {
+            "Email": "sbrooks@coppin.edu",
+            "Phone number": "(410) 951-3455",
+            "Research Interest": " Mathematics and Computer Science ",
+            "Position": " Assistant Professor ",
+            "Name": "Dr. Sean Brooks"
+        },
+        {
+            "Email": "dbrothers-gray@coppin.edu",
+            "Phone number": "(410) 951-6313",
+            "Research Interest": " Criminal Justice ",
+            "Position": " Professor ",
+            "Name": "Ms. Darlene Brothers-Gray"
+        },
+        {
+            "Email": "mbuckley@coppin.edu",
+            "Phone number": "(410) 951-3541",
+            "Research Interest": " Social Work ",
+            "Position": " Assistant Professor ",
+            "Name": "Dr. Melissa Buckley"
+        },
+        {
+            "Email": "mburke@coppin.edu",
+            "Phone number": "(410) 951-3081",
+            "Research Interest": " College of Arts and Science and Education ",
+            "Position": " Assistant Professor ",
+            "Name": "Dr. Merah Burke"
+        },
+        {
+            "Email": "jburley@coppin.edu",
+            "Phone number": "(410) 951-3538",
+            "Research Interest": " Social Work ",
+            "Position": " Assistant Professor ",
+            "Name": "Dr. Jeronda Burley"
+        },
+        {
+            "Email": "rbutler@coppin.edu",
+            "Phone number": "4109516170",
+            "Research Interest": " Health Information Management (HIM) ",
+            "Position": " Assistant Professor/Director of Clinical Affairs ",
+            "Name": "Dr. Robin Butler"
+        },
+        {
+            "Email": "mcalhoun@coppin.edu",
+            "Phone number": "(410) 951-2622",
+            "Research Interest": " Health Information Management (HIM) ",
+            "Position": " Chairperson/Associate Professor ",
+            "Name": "Mrs. Mona Calhoun"
+        },
+        {
+            "Email": "rcataliotti@coppin.edu",
+            "Phone number": "(410) 951-4166",
+            "Research Interest": " Humanities ",
+            "Position": " Professor ",
+            "Name": "Dr. Robert H. Cataliotti"
+        },
+        {
+            "Email": "tchavez-gil@coppin.edu",
+            "Phone number": "(410) 951-4124",
+            "Research Interest": " Natural Sciences ",
+            "Position": " Associate Professor of Chemistry ",
+            "Name": "Dr. Tulio Chavez-Gil"
+        },
+        {
+            "Email": "eclassen@coppin.edu",
+            "Phone number": "(410) 951-4265",
+            "Research Interest": "Missing",
+            "Position": " Research Assistant/Soc. Clinic ",
+            "Name": "Ms. Emily Classen"
+        },
+        {
+            "Email": "roncollins@coppin.edu",
+            "Phone number": "(410) 951-3392",
+            "Research Interest": " Honors Program ",
+            "Position": " Dean ",
+            "Name": "Mr. Ronnie L. Collins Sr."
+        },
+        {
+            "Email": "ecovington@coppin.edu",
+            "Phone number": "(410) 951-6433",
+            "Research Interest": " Management and Marketing (Department of) ",
+            "Position": " Assistant Professor ",
+            "Name": "Dr. Ericka N. Covington"
+        },
+        {
+            "Email": "sdarden@coppin.edu",
+            "Phone number": "4109514182",
+            "Research Interest": " Community Health Center ",
+            "Position": " Associate Director/Family Nurse Practitioner ",
+            "Name": "Dr. Shavon T Darden"
+        },
+        {
+            "Email": "ddas@coppin.edu",
+            "Phone number": "(410) 951-6102",
+            "Research Interest": " Criminal Justice ",
+            "Position": " Professor ",
+            "Name": "Dr. Dilip K. Das"
+        },
+        {
+            "Email": "cadavis@coppin.edu",
+            "Phone number": "(410) 951-6145",
+            "Research Interest": " School of Allied Health ",
+            "Position": " Assistant Professor ",
+            "Name": "Dr. Cataria C. Davis"
+        },
+        {
+            "Email": "cblack@coppin.edu",
+            "Phone number": "(410) 951-3986",
+            "Research Interest": " Nursing Undergraduate Program ",
+            "Position": " Associate Professor ",
+            "Name": "Dr. Crystal Day-Black"
+        },
+        {
+            "Email": "lday-Clark@coppin.edu",
+            "Phone number": "(410) 951-3365",
+            "Research Interest": " Humanities ",
+            "Position": " Professor ",
+            "Name": "Ms. Linda Day-Clark"
+        },
+        {
+            "Email": "sdelice@coppin.edu",
+            "Phone number": "4109513590",
+            "Research Interest": " Academic Affairs (Division of) ",
+            "Position": " Director of Mentoring Programs &amp; Summer Academic Success Academy ",
+            "Name": "Mr. Steve Delice"
+        },
+        {
+            "Email": "bogamba@coppin.edu",
+            "Phone number": "(410) 951-4163",
+            "Research Interest": " Humanities ",
+            "Position": " Professor/Coordinator World Literature Program ",
+            "Name": "Dr. Blessing Diala-Ogamba"
+        },
+        {
+            "Email": "tdupree-wilson@coppin.edu",
+            "Phone number": "(410) 951-4162",
+            "Research Interest": " Humanities ",
+            "Position": " Assistant Professor ",
+            "Name": "Dr. Teisha Dupree-Wilson"
+        },
+        {
+            "Email": "pebuwei@coppin.edu",
+            "Phone number": "(410) 951-6139",
+            "Research Interest": " Health Information Management (HIM) ",
+            "Position": " Assistant Professor ",
+            "Name": "Mrs. Patience Ebuwei"
+        },
+        {
+            "Email": "neugene@coppin.edu",
+            "Phone number": "(410) 951-3462",
+            "Research Interest": " Mathematics and Computer Science ",
+            "Position": " Interim Chair ",
+            "Name": "Dr. Nicholas Eugene"
+        },
+        {
+            "Email": "pevans@coppin.edu",
+            "Phone number": "4109514164",
+            "Research Interest": " Humanities ",
+            "Position": " Instructor ",
+            "Name": "Mr. Paul Evans"
+        },
+        {
+            "Email": "iezebuihe@coppin.edu",
+            "Phone number": "(410) 951-6062",
+            "Research Interest": " Nursing Undergraduate Program ",
+            "Position": " Assistant Professor ",
+            "Name": "Dr. Ihuoma Ezebuihe"
+        },
+        {
+            "Email": "hezeka@coppin.edu",
+            "Phone number": "(410) 951-3448",
+            "Research Interest": " Accounting and Management Information Systems ",
+            "Position": " Assistant Professor ",
+            "Name": "Mr. Hyacinth A. Ezeka"
+        },
+        {
+            "Email": "sfetcho@coppin.edu",
+            "Phone number": "4109516083",
+            "Research Interest": " Applied Psychology and Rehabilitation Counseling ",
+            "Position": " Director, Field Placement and Internship ",
+            "Name": "Ms. Susan Fetcho"
+        }
+    ]
+}

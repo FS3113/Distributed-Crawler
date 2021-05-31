@@ -1,0 +1,97 @@
+{
+    "task": "faculty",
+    "university": "University of Wisconsin--Stout",
+    "department": "Computer Science",
+    "id": "_02/05/2021-02:33:06",
+    "time_stamp": "02/05/2021-02:33:06",
+    "execution_time": "9",
+    "url": "https://www.uwstout.edu/academics/colleges-schools/college-science-technology-engineering-mathematics-and-management/mathematics-statistics-and-computer-science-department/mathematics-statistics-and-computer-science-faculty",
+    "algo_version": 1,
+    "status": "Success",
+    "data": [
+        {
+            "Research Interest": "Initiative for the Creation of the Center for the Study and Promotion of Health and Wellbeing",
+            "Position": "College of Education, Hospitality, Health and Human Science",
+            "Name": "Meet Our Staff",
+            "Email": "Missing",
+            "Phone number": "Missing"
+        },
+        {
+            "Research Interest": "Chemistry and Physics Department",
+            "Position": "College of Science, Technology, Engineering, Mathematics and Management",
+            "Name": "Operations and Management Department",
+            "Email": "Missing",
+            "Phone number": "Missing"
+        },
+        {
+            "Research Interest": "Faculty &amp; Staff",
+            "Position": "School of Art &amp; Design",
+            "Name": "Furlong Gallery",
+            "Email": "Missing",
+            "Phone number": "Missing"
+        },
+        {
+            "Research Interest": "Mission, Vision, and Values",
+            "Position": "School of Education",
+            "Name": "Teaching, Learning and Leadership Department",
+            "Email": "Missing",
+            "Phone number": "Missing"
+        },
+        {
+            "Research Interest": "Heritage Hall",
+            "Position": "Labs &amp; Classrooms",
+            "Name": "Jarvis Hall Technology Wing",
+            "Email": "Missing",
+            "Phone number": "Missing"
+        },
+        {
+            "Research Interest": "Drop and Withdrawal",
+            "Position": "Educational Resources &amp; Rubrics",
+            "Name": "Graphic Organizers",
+            "Email": "Missing",
+            "Phone number": "Missing"
+        },
+        {
+            "Research Interest": "Transfer Students",
+            "Position": "Advisement Center",
+            "Name": "Testing Services",
+            "Email": "Missing",
+            "Phone number": "Missing"
+        },
+        {
+            "Research Interest": "Sharing Communities",
+            "Position": "Nakatani Teaching &amp; Learning Center",
+            "Name": "Advisory Board",
+            "Email": "Missing",
+            "Phone number": "Missing"
+        },
+        {
+            "Research Interest": "Spring 2021 Information",
+            "Position": "Registration and Records Office",
+            "Name": "Step-by-Step Guides",
+            "Email": "Missing",
+            "Phone number": "Missing"
+        },
+        {
+            "Research Interest": "Human Sciences Career Outcomes",
+            "Position": "Career Outcomes",
+            "Name": "Science &amp; Engineering Career Outcomes",
+            "Email": "Missing",
+            "Phone number": "Missing"
+        },
+        {
+            "Research Interest": "Recruitment Calendar",
+            "Position": "Employer Resources",
+            "Name": "Employer Recruitment Guidelines",
+            "Email": "Missing",
+            "Phone number": "Missing"
+        },
+        {
+            "Research Interest": "Student Right to Know",
+            "Position": "Institutional Accreditation",
+            "Name": "University Policies",
+            "Email": "Missing",
+            "Phone number": "Missing"
+        }
+    ]
+}
